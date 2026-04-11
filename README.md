@@ -17,10 +17,10 @@ By using this software, you agree to the following terms:
 This tool is designed to help you organize, search, and review your own notes or publicly available course materials for the purpose of personal learning and revision.
 
 ### Compliance with Academic Integrity Policies
-It is your sole responsibility to ensure that your use of this tool complies with your institution’s academic integrity, honor code, and assessment policies. Unauthorized use of this tool during examinations, quizzes, or other graded assessments — or to access unauthorized materials — may constitute academic dishonesty.
+It is your sole responsibility to ensure that your use of this tool complies with your institution’s academic integrity, honor code, and assessment policies. Unauthorized use of this tool during examinations, quizzes, or other graded assessments may constitute academic dishonesty.
 
-### No Unauthorized Access
-This tool does not bypass authentication, access restricted systems, or retrieve materials you do not have explicit permission to use. You are responsible for ensuring that any data queried is lawfully obtained.
+### Lawful Content Only
+You must ensure that any content you query, store, or process using this tool is lawfully obtained and that you have the right to use it. This tool does not inherently retrieve, download, or access any materials on your behalf — it only operates on data you explicitly provide.
 
 ### No Liability
 The author of this tool assumes no responsibility or liability for any academic penalties, disciplinary actions, or other consequences arising from the misuse of this software. Use it at your own risk and within the bounds of your institution’s rules.
