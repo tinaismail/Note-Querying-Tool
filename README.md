@@ -1,4 +1,4 @@
-# MUSIC-2MT3
+# Note Querying Tool
 Query massive amounts of lecture notes and information easily.
 
 Convert pdf content to plaintext: `python3 pdftotext.py`
