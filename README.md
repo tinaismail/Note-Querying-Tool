@@ -19,13 +19,7 @@ This tool is designed to help you organize, search, and review your own notes or
 ### Compliance with Academic Integrity Policies
 It is your sole responsibility to ensure that your use of this tool complies with your institution’s academic integrity, honor code, and assessment policies. Unauthorized use of this tool during examinations, quizzes, or other graded assessments may constitute academic dishonesty.
 
-### Lawful Content Only
-You must ensure that any content you query, store, or process using this tool is lawfully obtained and that you have the right to use it. This tool does not inherently retrieve, download, or access any materials on your behalf — it only operates on data you explicitly provide.
-
 ### No Liability
 The author of this tool assumes no responsibility or liability for any academic penalties, disciplinary actions, or other consequences arising from the misuse of this software. Use it at your own risk and within the bounds of your institution’s rules.
-
-### No Warranty
-This software is provided “as is,” without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose.
 
 By using this tool, you affirm that you will use it ethically and solely as a learning aid, not as a means to gain an unfair advantage in any academic assessment.
