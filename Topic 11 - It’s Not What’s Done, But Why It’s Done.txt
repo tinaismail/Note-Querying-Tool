@@ -1,0 +1,492 @@
+**POSITION PAPER | PEER REVIEWED**
+
+# "It's Not What's Done, But Why It's Done":
+# Music Therapists' Understanding of Normalisation, Maximisation and the Neurodiversity Movement
+
+Beth Pickard¹*, Grace Thompson², Maren Metell³,⁴, Efrat Roginsky⁵, Cochavit Elefant⁵
+
+¹ University of South Wales, Wales
+² University of Melbourne, Australia
+³ Nordoff Robbins/Goldsmiths, University of London, England
+⁴ GAMUT, Grieg Academy - Dept. of Music, University of Bergen, Norway
+⁵ University of Haifa, Israel
+
+* beth.pickard@southwales.ac.uk
+
+Received: 2 June 2020
+Accepted: 20 October 2020
+Published: 1 November 2020
+Editor: Juanita Eslava-Mejia
+Reviewers: Robert Chapman, Jason Noone
+
+---
+
+**Abstract**
+
+This position paper offers our personal reflections as five music therapists from varying social and international contexts attempting to understand and engage with the theory, politics and implications of the Neurodiversity Movement. We begin by positioning our views on the importance of the therapist's intentionality when working with individuals for whom this social, cultural and political movement may represent central beliefs and values. The evolution of the Neurodiversity Movement is discussed, growing from the social model of disability and Disability Rights Movements to present a challenge to the dominant, medicalised model of disability. Throughout the paper, we invite critical debate around the role, position and attitude of the music therapist when working with neurodivergent participants, taking the powerful words of Autistic author and activist, Penni Winter, as our provocation. Finally, we offer our interpretation of key concepts and dimensions of this discourse, before sharing examples of how we might apply these understandings to tangible tenets of music therapy practice in different contexts through a series of brief composite case stories. Through critical reflection and discussion, we attempt to draw together the threads of these diverse narratives to challenge a normocentric position, and conclude by posing further questions for the reader and the wider music therapy profession.
+
+**Keywords:** neurodiversity, ableism, music therapy, autism
+
+---
+
+**Introduction**
+
+This position paper takes as its provocation the following quote by Autistic author and activist, Penni Winter (2012):
+
+"Let me make it clear - it's not what's done, but why it's done. Some of the same therapies, such as social skills and life skills training, I know are used by those who don't subscribe to the Big Bad Autism viewpoint. They are seeking to simply grow their child's capabilities as an Autistic person, an approach I have started calling 'Maximisation', and a goal I wholeheartedly support. With normalisation, on the other hand, the ultimate goal is simply to rid the individual of any outward sign of their Autism." (Winter, 2012, pp. 115-116)
+
+In responding to this provocation, we commence by critically positioning ourselves and providing a brief theoretical context to illustrate the proposed gap within existing music therapy literature which this position paper seeks to address. Following on, we introduce the Neurodiversity Paradigm, including potential critical interpretations, and explain our positioning and language choices. We then offer some wider theoretical and political context to the evolution of the Neurodiversity Movement, including the politics of disablement (Watson, 2020) and the conception of the social model of disability (Oliver, 1983, 2013), including its relevance to autism and neurodiversity (Woods, 2017). Having provided this context, we then consider the implications for music therapy practice, training and research through some illustrative case examples. We conclude by inviting and warmly welcoming feedback from the wider music therapy community, and look forward to further debate on this important topic.
+
+---
+
+**Positioning: Our Identity**
+
+This paper is written collaboratively by an international collective of music therapists who are socially located in multiple spaces: we are a group of music therapy clinicians, educators, and researchers, with 5-40 years of experience in the field. We are women with different gender identities: cisgender and nonbinary. We come from Australasian, European, Middle Eastern, and Scandinavian countries, and have different cultural norms and religious beliefs. Some of us have lived experiences of disability, neurodivergence and/or a close relative's divergence, while others do not. No matter our social and political identities, we strive to be supportive allies and view human rights as an us rather than a them issue. We share a commitment to a critical exploration of our socially and culturally "bestowed knowledge" (Moore & Slee, 2020, p. 267) about disability, autism and more broadly, neurodiversity. The intention of this paper is to open a dialogue that curiously questions the paradigm through which we understand, discuss, conceptualise and engage with neurodiversity in the music therapy profession, and particularly to focus on our intentionality as music therapists. We endeavoured to ensure the voices of experts by experience, as well as Autistic scholars, were central to our developing understanding, through proactive engagement with Autistic music therapists, Autistic allies and music therapy participants, as well as neurodivergent authors and self-advocates (see Bascom, 2012; Brown, 2016; Houting, 2019; Leza, 2020; Memmott, 2019; Sequenzia, 2019a; Walker, 2014, 2019; Wood, 2014). Kapp (2019, p. v) calls this important positioning and valuing of expertise: "Standpoint epistemology." We do not intend or desire to speak for any Autistic people. In responding to Winter's (2012) quote as our provocation, our focus is largely on our role and intention as music therapists, a position we feel we can discuss with congruence and authenticity.
+
+We see this commitment to acknowledging our responsibility as allistic, neurodivergent and neurotypical therapists as "enacting inclusion" (Iannacci, 2018, p. x) by "shifting the imbalanced burden of adapting away from Autistic individuals" (Woods, 2017, p. 1094) and taking this responsibility ourselves. We believe that hearing and responding to the perspectives of the populations we serve is imperative to our commitment as music therapists. As a profession, we inhabit a position of privilege and often power, and have a responsibility to critically reflect upon and challenge this position (Hadley, 2013).
+
+We commenced this journey initially through individual projects (Metell, 2014; Pickard, 2019; Roginsky, 2016; Roginsky & Elefant, 2020; Thompson & Elefant, 2019) and came together to facilitate a Roundtable Presentation on this topic at the 11th European Music Therapy Conference in Aalborg, Denmark in July 2019, presenting our evolving discussion and collective learning to date (Thompson et al., 2019). The roundtable felt to us an important moment where we shared our shifting perspectives and challenging experiences and invited the wider music therapy community into the dialogue. Following the presentation, other practitioners, colleagues in other professions and experts by experience have approached us and further enriched our understanding (Elefant et al., 2020).
+
+---
+
+**Positioning: The Gap in the Music Therapy Literature**
+
+We want to acknowledge and celebrate the music therapy scholars who have made an important contribution to the way we practise and understand our work. These scholars include in particular Randi Rolvsjord (2010), whose concept of Resource-Oriented Music Therapy has influenced the way we value each person's resources and potential, rather than focusing exclusively on their pathology, deficits or weaknesses. Community Music Therapy theory (Stige et al., 2010) has also contributed significantly to our practice through its emphasis on shifting the focus of music therapy work into a wider, social, and more emancipatory context, encouraging "musical participation and social inclusion, equitable access to resources, and collaborative efforts to nurture health and wellbeing in contemporary societies" (Stige & Aaro, 2012, p. 5).
+
+While Resource-Oriented Music Therapy (Rolvsjord, 2010, 2014) has focused on the potential of the participant in music therapy, and Community Music Therapy (Stige et al., 2010; Stige & Aaro, 2012) has discussed the wider systemic context, we aim to more specifically focus on our intentionality as music therapists. Therefore, it feels important to clarify that in critically reflecting on case examples and existing research we do not seek to criticise existing practices or advocate a single way of practising. Rather, drawing from Young's (1990, 2011) notion of consciousness raising, we hope that this discussion will invite further critical reflection on existing attitudes and assumptions and challenge a normocentric position (Mottron, 2017).
+
+Therefore, we invite readers to consider Winter's (2012) words for themselves, and to critically reflect on the why as well as the what of their own practices. We acknowledge that engaging with these concepts has been and continues to be a difficult journey for us as authors. We appreciate there may be challenging critiques or considerations for readers and members of the music therapy community too in potentially recognising elements of oppressive practice in our profession (Baines, 2013; Freire, 1974/2011). We hope this contribution can be seen as a compassionate step in professional development, and we welcome further feedback and response as we move forward together.
+
+---
+
+**Defining Neurodiversity**
+
+The term neurodiversity is currently referred to as both a paradigm and a movement. Judy Singer (1999, 2016), informed by the social model of disability and the notion of biodiversity, initially used Harvey Blume's (1997) phrase neurological pluralism which she later condensed to neurodiversity, to represent the fact that there are neurological differences in the human population, of which autism is one (see Neurodivergent Rebel's (2020b) insightful introduction to the concept of neurodiversity). Singer (1999, 2016) called for a politics of neurodiversity, recognising neurodivergent people as a political grouping comparable with other identity groups, including those based on gender, class, sexuality and race (Jaarsma & Welin, 2012). Concisely, the Neurodiversity Movement "challenges the medical model's interest in causation and cure, celebrating autism as an inseparable aspect of identity" (Kapp et al., 2013, p. 59). As this definition suggests, the Neurodiversity Movement "goes beyond simply claiming rights and anti-discriminatory practices for neurodiverse people but argues for recognition and acceptance of (valuable) difference" (Runswick-Cole, 2014, p. 1121).
+
+Central to the Neurodiversity Paradigm is the fact that the ontological status of autism is contested: "It [autism] is many varying things to each individual stakeholder" (Woods et al., 2018, p. 976). There is a wealth of rich literature debating these ideas which provide vital context to music therapists working in this field (see Armstrong, 2010; Davidson & Orsini, 2013; Kapp, 2019; Rosqvist et al., 2020; Runswick-Cole et al., 2016; Silberman, 2015; Waltz, 2013). We are reflexively questioning how these shifting ontological and epistemological stances about autism, neurodiversity and difference may shape our profession into the future.
+
+Depending on our conceptualisation of normalcy and diversity, we may perform our roles as music therapists in very different ways. This could range from the language we use to articulate our practice to the way we refer participants into music therapy provision; from the musical content of our sessions to the power dynamics between participants in the room. While there are some authors exploring these ideas in relation to music therapy (Baines, 2013; Bakan, 2014; Fansler et al., 2019; Gross, 2018; Hadley, 2013, 2014; Metell, 2014, 2019; Pickard, 2019, in press; Rolvsjord, 2014; Shaw, 2019; Tsiris, 2013, 2018; Young, 2020), we propose that these considerations should be interrogated more widely throughout the profession. For example, while the politics of neurodiversity originated from Autistic advocates, this reframing of deficits to differences has resonated with many advocacy groups representing people with divergent bodies or minds. Therefore, along with our discussion of Autistic activism, we also attempt to pay attention and respect towards the various other individuals and communities who identify as neurodivergent.
+
+---
+
+**Critical Perspectives About the Neurodiversity Movement**
+
+While acceptance, recognition and celebration of difference are ideals that many people broadly support, there are also various critiques and opponents of the Neurodiversity Movement (Russell, 2019). For example, Baron-Cohen (2019) suggests that for individuals with intellectual disabilities and other complex health conditions, a medical model interpretation of autism recognising disorder and disease rather than difference is more appropriate. Another critique is the assertion that while the Neurodiversity Movement may offer a constructive framework for Autistic self-advocates to articulate their experiences and perceived strengths, the model favours individuals who communicate in verbal or written forms (Baron-Cohen, 2019; Kenny et al., 2015; Ripamonti, 2016; Russell, 2019). Kenny et al. (2015) contend that the Neurodiversity Movement predominantly represents the views of articulate Autistic adults rather than the wider cross-section of society who are Autistic. However, Bailin (2019) disagrees, and in response proposes that:
+
+"While there is a lot of overlap with the social model, the neurodiversity approach is primarily a call to include and respect people whose brains work in atypical ways, regardless of their level of disability (I will focus here on autism, but neurodiversity is about 'all kinds of minds'). This requires challenging our assumptions about what's normal, what's necessary and what's desirable for a person to live well. Of course, better accommodations and reduced stigma would improve our lives immensely. But so would a broader definition of a meaningful life." (para. 8)
+
+While some researchers perceive it to be more difficult to engage with the perspectives of Autistic people with intellectual disabilities and other complex conditions (Baron-Cohen, 2019), one could argue that this is the dominant culture's limitation and responsibility to address (Pickard, 2019, in press), as Amy Sequenzia (2019b) asserts that using the social construction of intelligence as a reason to deny accessibility, respect and human rights is a highly ableist attitude.
+
+A further critique is offered in Katherine Runswick-Cole's (2014) assertion that Singer's (1999) politics of neurodiversity maintains an us and them dichotomy and fails to "challenge the subordination and commodification of difference" (Runswick-Cole, 2014, p. 1127). We consider this position seriously when applying our thinking about neurodiversity to music therapy, since we can see there is a risk of replacing the binaries of the medical model with another potentially exclusionary framework. Runswick-Cole (2014) suggests that one way to disrupt this dichotomy is to avoid reliance on fixed subject positions, "moving from a reliance on identity politics towards a politics of identity that steps away from essentialist claims (Ruffalo, 2009)" (Runswick-Cole, 2014, p. 1118). A similar discussion around resisting fixed categories can be found in the queering music therapy literature (see Fansler et al., 2019).
+
+In addition, some authors express reservations that the Neurodiversity Movement is not yet supported by enough research evidence to support its claims about neurological differences, while others consider the neurological or biological evidence available justifies a medicalised rhetoric (Russell, 2019). In contrast, the Neurodiversity Paradigm is enriched as a social movement based on popular (i.e. non-academic) sources that speak from authors' lived experience of diversity: prioritising a "standpoint epistemology" (Kapp, 2019, p. v). While these more accessible forms of communication, such as blogs, vlogs, documentaries, essays and biographies may be the most valid and reliable documentation for a subject matter of this kind, social and medical systems still privilege scientific and often quantitative evidence over non-scholarly materials. This academic bias may also reflect the potential disconnect or lack of recognition of the Neurodiversity Movement in music therapy curricula, practices and research. Having said this, the original work on neurodiversity by Singer (1999) was a sociology thesis, and the Neurodiversity Paradigm was later developed in academic work by Nick Walker (2019). There are also contemporary examples of this paradigm in rigorous academic sources (see Kapp, 2019; Milton, 2020; Rosqvist et al., 2020).
+
+---
+
+**Perspectives on Language**
+
+One challenging element of our collective experience was finding a shared language that we all felt comfortable to engage with. The language of disability and of autism is widely acknowledged to be contentious (Bottema-Beutel et al., 2020; Carroll, 2019; Flink, 2019; Ripamonti, 2016), since language contributes to the social construction of disability (Rapley, 2010). The international dimension of our collaboration highlighted this further, with contrasting language choices advocated by self-advocacy movements in different parts of the world (Cascio, 2015; Kenny et al., 2015).
+
+For example, the language of the Diagnostic and Statistical Manual of Mental Disorders (5th ed.; DSM-5; American Psychiatric Association, 2013) is inevitably medicalised and conceptualises autism as a disorder and a deficiency. The language of disorder was immediately challenged within our collective, with acknowledgement that this phrasing contributes significantly to a deficit-based interpretation of autism and neurodiversity (Bottema-Beutel et al., 2020; Goodley, 2017; Runswick-Cole et al., 2016). As such, the term Autism Spectrum Conditions (ASC) was favoured in discussing a spectrum of experiences rather than deficiencies, but the crucial positioning of language in relation to the individual still required exploration. Following the UN Convention on the Rights of Persons with Disabilities (UN General Assembly, 2006), person-first language was popularised as a way to acknowledge the person rather than the diagnostic label. Person-first language could include phrases such as people who have autism, people on the Autistic spectrum, or people with autism spectrum conditions. However, person-first language has been highly critiqued by the Autistic community since this approach separates the individual from their autism and implies that it is not acceptable to be acknowledged or celebrated as an Autistic individual (Ladau, 2014; Ripamonti, 2016). Conversely, identity-first language posits that the person wouldn't be who they are without their identity as an Autistic person (see Figure 1). Reclaiming this language can symbolise taking back the power that has been historically seized from disabled people.
+
+Ladau (2014) proposes that person-first language should not be advocated under the premise that we are doing a favour to the feelings of disabled people. Rather, she advocates that "we should move towards acceptance and understanding of disability as just one of the myriad identifiers in our culturally rich and complex world" (p. 55). Bolton (2018) presents a similar position, focusing not on the semantics but the intention: "Recognition of essential humanity, self-worth, and intrinsic value lies not in language, but in being comfortable with and able to identify with one's condition. Therefore, while respecting others' views, I am both Autistic and a person with autism" (p. 981). We endeavour to be sensitive to this debate, and while we use identity-first language in this article in line with contemporary voices in the Autistic community (Bottema-Beutel et al., 2020; Kenny et al., 2015; Ladau, 2014), we appreciate each individual may choose to be acknowledged differently, and we respect this choice. We will return to consider the implications of language use for music therapists and the way we position our profession later in the discussion.
+
+---
+
+**Figure 1: Person-first Language vs. Identity-first Language (OverExplainingAutistic, 2017)**
+
+[Image description: A two panel comic titled "Person-first Language vs. Identity-first Language" drawn in a simple cartoon style with organic and slightly messy lines.
+
+Panel 1: a human holding a dog's leash. The human says "Come on Autism, time for a walk."
+
+Panel 2: A human wearing a shirt with the infinity symbol, smiling happily and flapping hands.]
+
+---
+
+**Wider Political and Theoretical Positions**
+
+**Models of Disability**
+
+As therapists, our values and beliefs about disability ultimately impact our approach to practice. As Baglieri et al. (2011) concisely state, "There is no such thing as a view from nowhere" (p. 274), drawing on Nagel's (1986) ideas. In collaborating together and sharing our perspectives as part of this collective, we have a growing awareness of how our understanding of diversity and difference, and our knowledge of the discipline of Critical Disability Studies (Baglieri & Shapiro, 2017; Goodley, 2017) has shaped our practice, research and pedagogy. There are a variety of models, lenses and paradigms in play around the world, including the individual/medical model, social model, interactional model, personal tragedy model and more (Goodley, 2017).
+
+There is much critique of the various models of disability, most notably that they can be seen as simplistic, reductionist tools for understanding the complex experience of disablement or difference (Beaudry, 2016). Additionally, these paradigms can be seen as creating a binary from a rich and multifaceted topic (Anastasiou & Kauffman, 2013). We acknowledge these limitations, and in the spirit of the social model of disability's author, Michael Oliver (1983, 2013), propose the inclusion of these models in our discussion merely as tools for making sense of our experiences and the experiences of those we work with in music.
+
+The two most widely acknowledged and yet distantly related paradigms are perhaps the medical/individual and social models of disability (Goodley, 2017; Smith, 2008). The medical model of disability situates difference, as deficit, within the individual. The responsibility for the deficit resides with the individual, and any intervention seeking to address the difference will likely use principles of normalisation to target the individual's difference. However, a medical model is not inherently oppressive, as those of us who seek to correct impairments such as failing eyesight can attest. Yet the risk within this position is that it can go hand in hand with a belief that all difference should be corrected or eliminated. Conversely, the social model of disability evolved through the work of the Disability Rights Movement in the UK, and has since been widely acknowledged and accepted by international Disability Rights Movements. By focusing beyond any impairment, the social model of disability considers individuals to be disabled by the society they live in, and the barriers society poses to their equitable participation and access to opportunities (Barnes, 2012).
+
+The main critiques (Owens, 2014; Shakespeare, 2016; Shakespeare & Watson, 2002) of Oliver's (1983, 2013) social model of disability are that it arguably negates the experience of impairment, and that it conceptualises disabled people as one unitary group, not considering issues of intersectionality including gender, race, sexuality, age. Oliver (2013) responds concisely to these critiques, reminding us that the model was always intended as a tool to be consulted only when appropriate.
+
+Despite the critiques, the social model of disability was instrumental in shining a light on the structural foundations of oppression faced by disabled people. The social model of disability therefore laid the ground for the United Nations Convention on the Rights of Persons with Disabilities (CRPD; UN General Assembly, 2006) which has since been embedded in many government social policies around the world. The Convention states that:
+
+"Disability is an evolving concept. Disability results from the interaction between persons with impairments and attitudinal and environmental barriers that hinders their full and effective participation in society on an equal basis with others." (Preamble, para. 5)
+
+There is evidence here of both a social model and an interactional model understanding of disability, notably moving away from the established and dominant medical model of disability.
+
+In relation to our discussion around neurodiversity, we also appreciate an asset-oriented interpretation of disability (Heydon & Iannacci, 2008; Iannacci, 2018) which, allied to an affirmative disability paradigm, celebrates diversity and appreciates many of the strength-based attributes that are associated with various experiences, including autism and neurodiversity.
+
+Whether we conceptualise and understand autism and neurodivergence as deficits, experiences of barriers posed by society, or assets, will influence how we promote, refer into, provide, design, evaluate and articulate our music therapy practices. We believe this is a central reason that music therapists should develop an awareness of the Neurodiversity Movement and consider its relevance and impact upon their practices.
+
+**The Personal is Political: Ableism**
+
+While the CRPD espoused promoting "full and effective participation" in society (UN General Assembly, 2006, Preamble, para. 5), it did not speak to something more invisible - that "marginalization is a relational concept, emerging in the routines of (and interactions between) non-disabled and disabled people, often experienced in deeply psychological ways" (Goodley, 2013, p. 633). As Oliver (1983) explains, different bodies and minds can and do have impairments that a person may wish to address. But identifying which bodies and minds are considered normal or typical is a matter of cultural, political and social consideration (Baglieri et al., 2011).
+
+Fiona Kumari Campbell's (2009, 2013) work in describing ableism calls us to consider how dominant frameworks justify many forms of oppression such as ableism, racism, homophobia and sexism, that essentially oppress the existence of Others in society. Kumari Campbell (2013) defines ableism as:
+
+"A network of beliefs, processes and practices that produces a particular kind of self and body (the bodily standard) that is projected as the perfect, species-typical, and therefore essential and fully human. Disability then is cast as a diminished state of being human." (p. 4)
+
+In considering this profound assertion, we wish to acknowledge the call to examine our understanding of humanity, normalcy and diversity that the pioneers of the Neurodiversity Movement present. Back in 1993, Autistic advocate Jim Sinclair wrote an open letter that we believe is a powerful illustration of the impact of ableist ideology. He states in this excerpt:
+
+"There's no normal child hidden behind the autism. It is not possible to separate the autism from the person [...]. Therefore, when parents say, 'I wish my child did not have autism,' what they're really saying is, 'I wish the Autistic Child I have did not exist, and I had a different (non-Autistic) child instead.' Read that again. This is what we hear when you mourn over our existence. This is what we hear when you pray for a cure [...] that your greatest wish is that one day we will cease to be, and strangers you can love will move in behind our faces." (Sinclair, 1993; Sinclair, 2012, p. 16-17)
+
+Despite Sinclair's (1993) challenging proposition, autism continues to be positioned as a problem needing to be cured, and even feared. Evidence of this positioning can readily be found in the media (Ellis & Goggin, 2015; Haller, 2010; Reading, 2018), popular culture (Ellis, 2014), literature (Baglieri & Shapiro, 2017; Barker, 2017) and even in our professional documentation (Pickard, 2018, in press).
+
+---
+
+**Relevance and Implications for Music Therapy**
+
+We consider that these fundamental, ontological considerations about our understanding of neurodiversity underpin all aspects of music therapy theory, practice and research. A fascinating text by a collective of Autistic authors, Loud Hands (Bascom, 2012), presents several perspectives which attest to the centrality of this discussion to the music therapy community. As referenced in our opening provocation, Winter (2012) speaks directly to therapists and explains how our intentions matter: "Let me make it clear - it's not what's done, but why it's done" (p. 115). As Winter (2012) demonstrates, the intention of our therapeutic approach has significant relevance to the paradigm through which we experience neurodiversity. If adhering to a medical model interpretation of autism, our therapeutic approach may seek to normalise, and reduce Autistic symptoms, enabling the individual to live (outwardly) more like their typically developing peers. If we subscribe to the Neurodiversity Paradigm, we might seek to maximise the child's capabilities as an Autistic person; not in spite of their identity as an Autistic person, but in acceptance and acknowledgement of this valid identity. It is proposed that music therapy can contribute to both neurodiversity and deficiency-based narratives in the construction of disability (Straus, 2014), through contrasting contributions in practice and in theory. In addition to the intentionality we bring to our work as music therapists, the language we use to articulate our non-verbal practices to others, the challenge Ansdell (2001) terms the music therapist's dilemma, informs how the work is received and understood. As such, music therapy has been seen as a "normalizing enterprise" (Straus, 2011, p. 158) by some authors, who interpret certain research and definitions of music therapy as being aligned with the medical model.
+
+One example of this ontological debate playing out can be taken from the TIME-A Trial (Bieleninik et al., 2017) which was the first multinational randomised controlled trial of music therapy for Autistic children. The TIME-A trial used the Autism Diagnostic Observation Schedule as the primary outcome measure to capture change in symptom severity before and after the music therapy experiences. However, the music therapy protocol itself was based on improvisational methods where the music therapists endeavoured to musically and emotionally attune to the child's holistic expressions while following their strengths and interests. The ontological premise of the outcome measure compared to the approach to practice appear to be at odds with each other and therefore we suggest that the intention behind the project as either a normalising or maximising enterprise is unclear.
+
+In contrast, the non-profit organisation The Musical Autist (2020) was founded by Sunny, an Autistic self-advocate and CJ, a music therapist. The Musical Autist conceptualises its practice as a community music therapy initiative that accepts and celebrates neurodiversity. This organisation openly aims to create a space for cultivating Autistic culture, and therefore aligns itself clearly with a strengths-based view of autism.
+
+To further consider the ways in which we engage with maximisation and normalisation agendas (Winter, 2012) in music therapy, we next present three music therapy practice examples from different perspectives. These examples are based on our theoretical and professional experiences as practitioners and educators, including sessions we have facilitated ourselves or observed in the settings we are employed. We therefore describe them as composite case examples to allow us to illustrate how the Neurodiversity Paradigm may inform our intentions, goals and actions in music therapy practice. Each example takes a different stance including: 1) that of a critical observer, 2) that of mindful parents choosing between two therapists, and 3) that of a reflexive conversation between the therapist and participant.
+
+---
+
+**Composite Case Examples**
+
+**Example 1: Promoting Typical Prerequisite Social Behaviours**
+
+Lillian, a music therapist, worked as part of a multidisciplinary team in a specialist autism clinic. The team delivered intensive behavioural interventions that aimed to address the core features of autism. Lillian based most of her practice on the literature showing that music therapy could promote joint attention in Autistic children. In an assessment meeting for Max, a 7-year-old Autistic boy, Lillian listened to the team describe how he never seemed to acknowledge their invitations to play or follow their instructions. Lillian believed music therapy could help and suggested to the team that music making with instruments could be a great way to motivate Max to look at social targets. The team agreed with Lillian's suggested objective: "When instrument is moved horizontally in front of child's face, child will follow instrument with eyes 80% of the time" (Polen et al., 2017, p. 65). The music therapy objective was aligned with a key behavioural intervention principle that there are prerequisite steps a child needs to achieve in order to support future social communication development (Dawson et al., 2010).
+
+In the next session, Lillian focused on supporting Max's joint attention skills during instrument play. However, Max rarely looked at the instruments while Lillian played, and instead wanted to hold them, or play them on his own. At one point, Max became distressed when his own drumming was interrupted by Lillian's request to look at the triangle.
+
+Over the next few sessions, Max's growing interest in the sounds the drum could make and his ability to respond to the musical cues of the therapist (even when he was not looking at her) were barely noticed by the team. Instead, Lillian continued to work on the eye-gaze objective because she believed it was an essential step in promoting the typical sequence of social communication development. The team's philosophy had obscured Lillian from considering that Autistic children may follow "an alternative sequence of learning" (Mottron, 2017, p. 821). By overlooking Max's strengths and interests, the clinic's approach could be considered normocentric since the objective may be interpreted as "suppressing autism itself [or] mimicking non-Autistic social behaviour" (Mottron, 2017, p. 823). Perhaps Lillian had missed an opportunity to offer Max a strengths-informed music therapy experience (Mottron, 2017, p. 823). This different approach may have led to Max experiencing a sense of personal accomplishment through being invited to access social musical play in a way that respected his Autistic humanity.
+
+---
+
+**Example 2: Appropriate Hand Movements**
+
+Anna is a 3-year-old child whose kindergarten has suggested that she might need access to more support. They have noticed her sitting alone when it becomes noisy in the kindergarten, moving her hands up and down. Anna loves music, showing her joy through movement and smiling, and her mother has therefore looked for a music therapist. Anna's parents meet with two different music therapists to discuss their options for therapy.
+
+Ilse, the first music therapist, sees how Anna uses her hands, flapping and moving them in front of her face. She says that this is something they could work on together. Ilse explains that music therapy interventions can help to reduce undesired behaviors and increase more appropriate responses by engaging her in music making. For example, a child engaged in appropriate instrument play cannot also tap their fingers to stim (Music Therapy Kids, 2019). Ilse explains that she can offer Anna's hands something productive to occupy them, like playing drums and waving scarves. Additionally, Ilse would use music Anna likes as a positive stimulus to motivate Anna to use her hands in an appropriate way. However, Anna's parents thought that her hand flapping was a joyful thing for her to do, and started to feel uncomfortable about making Anna change her ways of expressing herself.
+
+Iara, the second music therapist, is employed by an Autistic self-advocacy organisation. Iara listens to the mother's experience of Anna and is curious about the observations the kindergarten has made. She shares that she works in a sensory-friendly way and that this includes acknowledging and celebrating stimming, which is how she perceives Anna's behaviour. Iara has learned from the Autistic community that stimming has an important function and explains to Anna's mother that she might need exactly those movements for comfort, self-regulation or re-directing sensory input (Agony Autie, 2018; Elefant et al., 2020). Iara highlights that music therapy can offer Anna opportunities for social, musical experiences and connection.
+
+Iara's gentle sharing of information about Autistic forms of expression, and explaining that the kindergarten community might also find ways to be more inclusive of Anna, have a deep influence on her parents. They decide to work with Iara's suggestions further, and also plan to connect with an autism advocacy organisation.
+
+---
+
+**Example 3 - Understanding Diverse Expressions and Behaviour**
+
+Adi's parents decided that speech therapy was no longer needed for their 25-year-old son, and instead thought they would try music therapy. Adi has spastic quadriplegic cerebral palsy and enjoys listening to music, dancing, socialising, hanging out at the mall, and going to movies. A gaze interaction device attached to Adi's laptop gives voice to the words he selects, using eye-gaze technology. However, the mechanical sounding voice of the laptop doesn't express his personality like his own vocalisations do, which include energetic high-pitched sounds and laughter. People close to Adi have come to understand what his different vocal expressions mean. Therefore, his parents are hoping to find a music therapist who will truly listen, attune, and encourage Adi's unique communication.
+
+Yosef, a music therapist, met Adi with his parents to talk about what might be possible. Yosef found Adi quite self-contained: he would listen to a single song or a music-clip over and over, and Adi's parents explained that he could listen to his favourite selections for months. While listening, Adi engaged with his music by laughing, crying, or letting out loud shrieks. His parents told Yosef that they accepted Adi's expressions, however, they worried that other people would not. Adi typed a message to Yosef explaining that he loves to enjoy music in his own way, but wishes he could have a fuller social life.
+
+Yosef listened and attuned carefully to both Adi and his parents, and together they discussed the advantages of more deeply exploring Adi's musicking behaviours in music therapy rather than trying to suppress them. Over the coming months, Yosef encouraged Adi to explore the nature and significance of his expressions. Adi was able to describe his total immersion in music recordings and videos, and his deep enjoyment of each repetition so that he could focus on the smallest auditory or visual fragments. He explained how he would experience such bliss from each fragment that laughter or tears would follow. Adi also expressed his sorrow and loneliness when his enjoyment and expressivity was not acknowledged and accepted by others.
+
+From a neurodiversity perspective, in music therapy, Adi's preferred forms of expression were recognised and accepted by others, rather than being denied or forced to change. Adi continued to celebrate his non-verbal, non-symbolic vocal expression with Yosef without fearing rejection. Yosef encouraged Adi to share the nature and significance of his ways of experiencing music and videos with close family and desired friends, and perhaps they too might gain new insight into the joy of music. Their conversations about the use of music offered a form of advocacy to Adi to claim his identity. Adi has since felt more connected to important people in his life and seeks out new opportunities for social participation.
+
+---
+
+**Conclusion**
+
+As noted at the outset, we intend this position paper as a stimulus for discussion, as an introduction to the Neurodiversity Movement, and as an opportunity for colleagues and peers to reflect on these important ontological considerations: how do we conceptualise difference in our practice and what do we consider to be the intention of music therapy? We do not intend to advocate for a single or particular mode of practice or approach, but rather advocate for critical reflection on our assumptions, intentions and positioning as music therapists. We also seek to problematise normocentric positions (Mottron, 2017) and to advocate for Autistic or neurodivergent forms of expression.
+
+After presenting a provocation from Winter (2012) and briefly positioning our social and political identities, we shared our insights and collective learning about the Neurodiversity Movement and the way it has deeply shaped our thinking about music therapy practices. Through the selection of composite case examples, we hope we have enabled readers to join us in a critical reflection upon the intentionality of our practices, and how this speaks of our understanding of normalcy and diversity. The case studies are not intended as neat, resolved examples, but as opportunity for debate, discussion and grappling with difficult ideas. We believe this focus is sorely needed in the profession and hope this provocation can be the stimulus for discussion and change as the profession continues to mature.
+
+We welcome and implore other practitioners to reflect on their practice and continue the dialogue so that an inclusive and respectful agenda for music therapy will further evolve. We acknowledge that this written, academic form has significant ableist connotations, and will seek to disseminate this work in other media and through other opportunities to enable a wider audience to access, challenge and enhance our learning. We agree with Rolvsjord's (2010) emphasis on the importance of critically reflecting upon the positioning of our work and the stories we tell. In relation to our work with neurodivergent individuals, we believe further critical reflection on the what and why of music therapy is needed to move away from the perpetuation of deficit-based discourse and outdated expert models (Murphy & McFerran, 2017) and to incorporate learning from critical disability studies (Bodry & Schwantes, 2020; Pickard, in press). We acknowledge that there is much still to learn, and we look forward to further dialogue with readers and music therapy participants which may signpost us towards our next steps in this work.
+
+---
+
+**About the authors**
+
+**Beth Pickard** is a music therapist, senior lecturer and PhD student at the University of South Wales. Beth's research, shaped by experience in mainstream, special and higher education, is informed by Critical Disability Studies and seeks to challenge deficit-based discourse around disability in policy and practice. Beth is an inclusive music facilitator, sign-supported communicator and passionate advocate for social justice. Beth's commitment to increasing accessibility and inclusive practice in higher education was recognised through a National Teaching Fellowship in 2018. Beth is part of the Advisory Editorial Board for international music therapy journal Approaches and Associate Editor for the Nordic Journal of Music Therapy, and is trustee of Birmingham based charity Melody which advocates for musical opportunities for people with learning disabilities.
+
+**Dr. Grace Thompson** is a music therapist and senior lecturer at the University of Melbourne. Grace has worked with children, young people and families for over 20 years within the early childhood intervention and special education sector. In her clinical work, Grace developed a collaborative approach to music therapy practice with families guided by ecological theories and family-centred philosophy. Her research continues to explore the ways music therapists can foster relationships and social connection through participating in engaging and accessible music making. Grace is past president of the Australian Music Therapy Association and along with Stine Lindahl Jacobsen is co-editor of the book Music Therapy with Families: Therapeutic Approaches and Theoretical Perspectives. She is currently an Associate Editor with the Nordic Journal of Music Therapy.
+
+**Maren Metell** is a PhD student at Nordoff Robbins/Goldsmiths, University of London and works currently at GAMUT, University of Bergen/NORCE. She is passionate about working together with children and families and has an interest in disability studies, emancipatory research and community music therapy. In her PhD, she explores together with families how, when and for whom musicking becomes accessible.
+
+**Dr. Efrat Roginsky** is a classical guitarist, music therapist and a lecturer at the University of Haifa, Israel. Efrat's clinical work takes place at the Israeli Public Education Service, where she also supervises and coordinates a regional arts-therapies sector. Efrat is interested in socio-ecological perspectives and social justice, applied through her clinical practice and public service. Her management policy encourages equality and participation through the arts, group work, and community collaboration. Efrat's research explores the musical worlds of individuals with cerebral palsies and their family members, as an act of acknowledging their voice and potential contributions to society.
+
+**Cochavit Elefant, PhD**, is a music therapist and head of the graduate music therapy program at the University of Haifa, Israel. Previously, she worked as Associate Professor in Music Therapy at the University of Bergen, Norway. She has many years of experience working and researching in music therapy with the intention of giving voice to the vulnerable unheard voices in society. Her research areas have been with girls with Rett syndrome, autistic people and within Community Music Therapy. She has published several articles and co-authored a book titled Where Music Helps: Community Music Therapy in Action and Reflection with Stige, Ansdell and Pavlicevic. She also co-edited a music therapy research book in Hebrew with Dorit Amir.
+
+---
+
+**Correction note**
+
+The affiliation of author Maren Metell has been changed to: Nordoff Robbins/Goldsmiths, University of London, and GAMUT, Grieg Academy - Dept. of Music, University of Bergen, Norway on 20.11.2020.
+
+---
+
+**Notes**
+
+1. While we understand and concur that Autistic contributors should be central to knowledge construction in this field (Milton, 2014; PARC, 2019), we also encourage music therapists to share the responsibility for engaging with this learning, whether they identify as neurodivergent or neurotypical, and whether they are currently working with Autistic colleagues or not. Our work has been enriched since we have begun collaborating with Autistic music therapists who bring an important perspective and expertise to this discussion, for which we are very grateful.
+
+2. Discussion about the language of client, service user, participant, musician was deeply considered. While this is beyond the scope of this article, the authors chose the phrase participant intentionally to acknowledge the potential power imbalance of client/therapist, service provider/service user, etc.
+
+3. In line with this commitment, we have consulted and included a range of sources to underpin our discussion, some academic and others drawn from online Autistic and autism communities, the differences between which Neurodivergent Rebel (2020a) discusses.
+
+4. Logsdon-Breakstone (2013) provides a useful definition of the term allistic, taken from Main (Zefram)'s (2003) original citation: "The word 'allism' [...] is intended to precisely complement 'autism.' It is based on the Greek word 'allos,' meaning 'other,' just as 'autos' (in 'autism') means 'self.'". Our collective found this positioning constructive in recognising our lack of experience of autism, but the challenge we found with unanimously identifying with the term neurotypical.
+
+5. See for example The Neurodiversity Hub (2020) or Diversity and Ability (DnA) (2019).
+
+6. This terminology is used as the accepted label for this experience, however we wish to highlight that this language is problematic, and is not widely accepted by the neurodivergent community (see Sequenzia's (2019b) blog entitled Intelligence is an Ableist Concept). See Nunkoosing (2011) for a discussion of the use of learning disability over intellectual disability as well as the consideration of socially constructed disability.
+
+7. Bolt (2019) provides a valuable summary of ableist conceptions of intelligence in academia in particular, referencing cognitive ableism (Berg et al., 2017), lexims which privileges certain forms of literacy (Collinson, 2014), samism which privileges those who don't experience mental health challenges (Prendergast, 2014), audism which privileges a hearing landscape (Bauman and Murray, 2009) and ocularcentrism, described as the dominance of visual perception (Jay, 1994; Bolt, 2019).
+
+8. Bottema-Beutel et al. (2020) provide a thorough and accessible discussion on the potential of the language of autism research and practice to reflect and perpetuate ableist ideologies.
+
+9. This image is "a two panel comic titled 'Person-first Language vs. Identify First Language' drawn in a simple cartoon style with organic and slightly messy lines. Panel 1: a human holding a dog's leash. The human says 'Come on Autism, time for a walk.' Panel 2: A human wearing a shirt with the infinity symbol, smiling happily and flapping hands." (OverExplainingAutistic, 2017)
+
+10. See Gross (2018) for an introduction to the social model of disability for music therapists.
+
+11. Our use of the phrase disabled people aligns with this social model understanding of disability, and signifies that we understand the person to be disabled by society, rather than having a disability within themselves.
+
+12. While we have advocated identity-first language when discussing autism, informed by the Autistic community, there is currently not the same precedent when discussing cerebral palsy, and in this instance, person-first language is still advocated and thus respected.
+
+---
+
+**References**
+
+Agony Autie. (2018). What is Stimming? https://www.youtube.com/watch?v=8bhT2R9HiLs.
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). https://doi.org/10.1176/appi.books.9780890425596.
+
+Anastasiou, D., & Kauffman, M. (2013). The social model of disability: dichotomy between impairment and disability. Journal of Medicine and Philosophy, 38, 441-459. https://doi.org/10.1093/jmp/jht026.
+
+Ansdell, G. (2001). Music therapist's dilemma. British Journal of Music Therapy, 15(1), 2-4. https://doi.org/10.1177/135945750101500101.
+
+Armstrong, T. (2010). Neurodiversity: Discovering the extraordinary gifts of autism, ADHD, dyslexia, and other brain differences. Da Capo Press.
+
+Baines, S. (2013). Music therapy as an anti-oppressive practice. The Arts in Psychotherapy, 40, 1-5. https://doi.org/10.1016/j.aip.2012.09.003.
+
+Bakan, M. (2014). Ethnomusicological perspectives on autism, neurodiversity, and music therapy. Voices: A World Forum for Music Therapy, 14(3). https://doi.org/10.15845/voices.v14i3.799.
+
+Barker, C. (2017). The Cambridge Companion to Literature and Disability. Cambridge University Press.
+
+Barnes, C. (2012). Understanding the social model of disability: Past, present and future. In N. Watson, A. Roulstone, & C. Thomas (Eds.), Routledge Handbook of Disability Studies (pp. 12-29). Routledge.
+
+Baron-Cohen, S. (2019). The concept of neurodiversity is dividing the autistic community: It remains controversial, but it doesn't have to be. https://blogs.scientificamerican.com/observations/the-concept-of-neurodiversity-is-dividing-the-autism-community/.
+
+Bascom, J. (2012). Loud hands: Autistic people, speaking. The Autistic Press.
+
+Bauman, H. D., & Murray, J. M. (2009). Reframing: From hearing loss to deaf gain. Deaf Studies Digital Journal, 1, 1-10.
+
+Beaudry, J. (2016). Beyond (models of) disability? Journal of Medicine and Philosophy, 41, 210-228. https://doi.org/10.1093/jmp/jhv063.
+
+Berg, L. A., Jirikowic, T., Haerling, K., & MacDonald, G. (2017). Centennial topics—navigating the hidden curriculum of higher education for postsecondary students with intellectual disabilities. American Journal of Occupational Therapy, 71(3), 1-9. https://doi.org/10.5014/ajot.2017.024703.
+
+Bieleninik, L., Geretsegger, M., Mössler, K., Assmus, J., Thompson, G., Gattino, G., Elefant, C., Gottfried, T., Igliozzi, R., Muratori, F., Suvini, F., Kim, J., Crawford, M. J., Odell-Miller, H., Oldfield, A., Casey, O., Finneman, J., Carpente, J., Park, A. L., & Gold, C. (2017). Effects of improvisational music therapy vs enhanced standard care on symptom severity among children with autism spectrum disorder: The TIME-A randomized clinical trial. JAMA, 318(6), 525-535. https://doi.org/10.1001/jama.2017.9478.
+
+Blume, H. (1997). Autistics, freed from face-to-face encounters, are communicating in cyberspace. https://www.nytimes.com/1997/06/30/business/autistics-freed-from-face-to-face-encounters-are-communicating-in-cyberspace.html.
+
+Bodry, K., & Schwantes, M. (2020). Clinical applications of feminist music therapy: An overview of the literature. Nordic Journal of Music Therapy. https://doi.org/10.1080/08098131.2020.1753230.
+
+Bolt, D. (2019). Cultural disability studies in education: Interdisciplinary navigations of the normative divide. Routledge.
+
+Bolton, M. J. (2018). With the silence of a thousand cries: Extremes of Autistic advocacy. Disability & Society, 33(6), 980-984. https://doi.org/10.1080/09687599.2018.1454381.
+
+Bottema-Beutel, K., Kapp, S. K., Lester, J. N., Sasson, N. J., & Hand, B. N. (2020). Avoiding ableist language: Suggestions for autism researchers. Autism in Adulthood. https://doi.org/10.1089/aut.2020.0014.
+
+Brown, L. (2016). Autistic hoja: Primer. https://www.autistichoya.com.
+
+Carroll, S. M. (2019). Respecting and empowering vulnerable populations: contemporary terminology. The Journal for Nurse Practitioners, 15, 228-231. https://doi.org/10.1016/j.nurpra.2018.12.031.
+
+Cascio, M. A. (2015). Cross-cultural autism studies, neurodiversity, and conceptualizations of autism. Culture, Medicine and Psychiatry, 39(2), 207-212. https://doi.org/10.1007/s11013-015-9450-y.
+
+Collinson, C. (2014). 'Lexism' and the temporal problem of defining 'dyslexia'. In D. Bolt (Ed.), Challenging social attitudes toward disability: Perspectives from historical, cultural and educational studies (pp. 153-161). Routledge.
+
+Davidson, J., & Orsini, M. (Eds.). (2013). Worlds of autism: Across the spectrum of neurological difference. University of Minnesota Press.
+
+Dawson, G., Rogers, S., Munson, J., Smith, M., Winter, J., Greenson, J., Donaldson, A., & Varley, J. (2010). Randomized controlled trial of an intervention for toddlers with autism: The early start Denver model. Pediatrics, 125(1), 17-23. https://doi.org/10.1542/peds.2009-0958.
+
+Diversity and Ability (DnA). (2019). Celebrate difference. https://diversityandability.com/.
+
+Elefant, C., Thompson, G., Metell, M., Roginsky, E., Pickard, B., & Gottschewski, K. (2020, July 7). The Neurodiversity Movement Invites Us to Consider Why We Work the Way We Do as Music Therapists [Roundtable Presentation]. World Music Therapy Congress, Online.
+
+Ellis, K. (2014). Disability and popular culture: Focusing passion, creating community and expressing defiance. Routledge.
+
+Ellis, K., & Goggin, G. (2015). Disability & the media. Palgrave Macmillan.
+
+Fansler, V., Reed, R., Bautista, E., Arnett, A., Perkins, F., & Hadley, S. (2019). Playing in the borderlands: The transformative possibilities of queering music therapy pedagogy. Voices: A World Forum for Music Therapy, 19(3). https://doi.org/10.15845/voices.v19i3.2679.
+
+Flink, P. (2019). Person-first and identity-first language: Supporting students with disabilities on campus. Community College Journal of Research and Practice. https://doi.org/10.1080/10668926.2019.1640147.
+
+Freire, P. (2011). Education for critical consciousness. Continuum Books.
+
+Goodley, D. (2013). Dis/entangling Critical Disability Studies. Disability & Society. https://doi.org/10.1080/09687599.2012.717884.
+
+Goodley, D. (2017). Disability studies: An interdisciplinary introduction (2nd ed.). SAGE.
+
+Gross, R. (2018). The social model of disability and music therapy: Practical suggestions for the emerging clinical practitioner. Voices: A World Forum for Music Therapy, 18(1). https://doi.org/10.15845/voices.v18i1.958.
+
+Hadley, S. (2013). Dominant narratives: Complicity and the need for vigilance in the creative arts therapies. The Arts in Psychotherapy, 40, 373-381. https://doi.org/10.1016/j.aip.2013.05.007.
+
+Hadley, S. (2014). Shifting frames: Are we really embracing human diversities? Voices: A World Forum for Music Therapy, 14(3). https://doi.org/10.15845/voices.v14i3.787.
+
+Haller, B. (2010). Representing disability in an ableist world: Essays on mass media. The Avocado Press, Inc.
+
+Heydon, R., & Iannacci, L. (2008). Early childhood curricula and the de-pathologizing of childhood. University of Toronto Press.
+
+Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. https://doi.org/10.1177/1362361318820762.
+
+Iannacci, L. (2018). Reconceptualizing disability in education. Lexington Books.
+
+Jaarsma, P., & Welin, S. (2012). Autism as a natural human variation: reflections on the claims of the neurodiversity movement. Health Care Analysis, 20(1), 20-30. https://doi.org/10.1007/s10728-011-0169-9.
+
+Jay, M. (1994). Downcast eyes: The denigration of vision in twentieth-century French thought. University of California Press.
+
+Kapp, S. (2019). Autistic community and the neurodiversity movement: Stories from the front line. Palgrave Macmillan.
+
+Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. Developmental Psychology, 49(1), 59-71. https://doi.org/10.1037/a0028353.
+
+Kenny, L., Hattersley, C., Molins, B., Buckley, C., Povey, C., & Pellicano, E. (2015). Which terms should be used to describe autism? Perspectives from the UK autism community. Autism, 20(4), 442-462. https://doi.org/10.1177/1362361315588200.
+
+Kumari Campbell, F. (2009). Contours of ableism: The production of disability and abledness. Palgrave Macmillan.
+
+Kumari Campbell, F. (2013). Problematizing vulnerability: Engaging studies in ableism and disability jurisprudence [Paper Presentation]. Disability at the Margins: Vulnerability, Empowerment and the Criminal Law: Legal Intersections Research Centre, Wollongong, Australia. https://lha.uow.edu.au/content/groups/public/@web/@law/@lirc/documents/doc/uw166211.pdf.
+
+Ladau, E. (2014). What should you call me? I get to decide: Why I'll never identify with person-first language. In C. Wood (Ed.), Criptiques (pp. 47-56). May Day Publishing.
+
+Leza, J. (2020). Neuroqueering music therapy. In D. Milton (Ed.), The neurodiversity reader (pp. 210-225). Pavilion Publishing and Media.
+
+Logsdon-Breakstone, S. (2013). Autistic, allistic, neurodiverse, and neurotypical: Say what? https://crackedmirrorinshallot.wordpress.com/2013/04/12/autistic-allistic-neurodiverse-and-neurotypical-say-what.
+
+Main, A. Zefram. (2003). Allism: An introduction to a little known concept. http://www.fysh.org/~zefram/allism/allism_intro.txt.
+
+Metell, M. (2014). Dis/Abing musicking: Reflections on a disability studies perspective in music therapy. Voices: A World Forum for Music Therapy, 14(3). https://doi.org/10.15845/voices.v14i3.786.
+
+Metell, M. (2019). How we talk when we talk about disabled children and their families: An invitation to queer the discourse. Voices: A World Forum for Music Therapy, 19(3). https://doi.org/10.15845/voices.v19i3.2680.
+
+Memmott, A. (2019). Autism: Some vital research links. http://annsautism.blogspot.com/2019/01/autism-some-vital-research-links.html.
+
+Milton, D. (2020). The neurodiversity reader. Pavilion Publishing and Media.
+
+Milton, D. (2014). Autism: A social and medical history. Disability & Society, 29(6), 991-992. https://doi.org/10.1080/09687599.2014.905281.
+
+Moore, M., & Slee, R. (2020). Disability studies, inclusive education and exclusion. In N. Watson, A. Roulstone, & C. Thomas (Eds.), Routledge Handbook of Disability Studies (2nd ed., pp. 260-285). Routledge.
+
+Mottron, L. (2017). Should we change targets and methods of early intervention in autism, in favor of a strengths-based education? European Child & Adolescent Psychiatry, 26(7), 815-825. https://doi.org/10.1007/s00787-017-0955-5.
+
+Murphy, M. A., & McFerran, K. (2017). Exploring the literature on music participation and social connectedness for young people with intellectual disabilities: A critical interpretative synthesis. Journal of Intellectual Disabilities, 21(4), 297-314. https://doi.org/10.1177/1744629516650128.
+
+Music Therapy Kids. (2019). How does music therapy help autism? https://www.musictherapykids.com/how-does-music-therapy-help-autism/.
+
+Nagel, T. (1986). The view from nowhere. Oxford University Press.
+
+Neurodivergent Rebel. (2020a). The difference between the autism community & the Autistic community. https://neurodivergentrebel.com/2020/01/24/the-difference-between-the-autism-community-the-autistic-community/.
+
+Neurodivergent Rebel. (2020b). What is neurodiversity? Neurodiversity in a nutshell! https://neurodivergentrebel.com/2020/02/19/what-is-neurodiversity-neurodiversity-in-a-nutshell/.
+
+Nunkoosing, K. (2011). Social construction of disability. In H. Crickmore (Ed.), Learning disability: Towards inclusion (6th ed., pp. 3-16). Churchill Livingstone.
+
+Oliver, M. (1983). Social work with disabled people. Macmillan.
+
+Oliver, M. (2013). The social model of disability: Thirty years on. Disability & Society, 28(7), 1024-1026. https://doi.org/10.1080/09687599.2013.818773.
+
+OverExplainingAutistic. (2017). Person-first language vs. identity-first language. https://overexplainingautistic.tumblr.com/post/156662135869/a-two-panel-comic-titled-person-first-language.
+
+Owens, J. (2014). Exploring critiques of the social model of disability: The transformative possibility of Arendt's notion of power. Sociology of Health and Illness, 37(3), 385-403. https://doi.org/10.1111/1467-9566.12199.
+
+Participatory Autism Research Collective (PARC). (2019). A community for people who want to promote Autistic involvement in autism research. https://participatoryautismresearch.wordpress.com/about/.
+
+Pickard, B. (2018, July 11-13). Normalcy and diversity in music therapy research and practice. [Paper presentation]. Lancaster University Disability Studies Conference, Lancaster University, UK.
+
+Pickard, B. (2019). Valuing neurodiversity: A humanistic, non-normative model of music therapy using Rogers' approach with young people with autism spectrum conditions. In H. Dunn, E. Coombes, E. Maclean, H. Mottram, & J. Nugent (Eds.), Music Therapy and Autism Across the Lifespan (pp. 297-329). Jessica Kingsley Publishers.
+
+Pickard, B. (in press). A critical reflection on the HCPC Standards of Proficiency for Music Therapists: A critical disability studies perspective. British Journal of Music Therapy.
+
+Polen, D. W., Shultis, C. L., & Wheeler, B. (2017). Clinical training guide for the student music therapist (2nd ed.). Barcelona Publishers.
+
+Prendergast, C. (2014). Mental disability and rhetoricity retold: The memoir on drugs. In D. Bolt (Ed.), Changing social attitudes toward disability: Perspectives from historical, cultural, and educational studies (pp. 60-68). Routledge.
+
+Rapley, M. (2010). The social construction of intellectual disability. Cambridge University Press.
+
+Reading, A. (2018). Neurodiversity and communication ethics: How images of autism trouble communication ethics in the global age. Cultural Studies Review, 24(2), 113-129. https://doi.org/10.5130/csr.v24i2.6040.
+
+Ripamonti, L. (2016). Disability, diversity, and autism: Philosophical perspectives on health. The New Bioethics, 22(1), 56-70. https://doi.org/10.1080/20502877.2016.1151256.
+
+Roginsky, E. (2016). Silent soundings: Communication and musicality in young adults with profound cerebral palsy and their parents (Doctoral dissertation). Haifa University, Israel.
+
+Roginsky, E., & Elefant, C. (2020). Silent sounding: Communicability, musicality, and the use of music with non-speaking individuals with cerebral palsies and multiple disabilities. Nordic Journal of Music Therapy. https://doi.org/10.1080/08098131.2020.1810744.
+
+Rolvsjord, R. (2014). The competent client and the complexity of dis-ability. Voices: A World Forum for Music Therapy, 14(3). https://doi.org/10.15845/voices.v14i3.787.
+
+Rolvsjord, R. (2010). Resource-oriented music therapy in mental health care. Barcelona Publishers.
+
+Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge.
+
+Ruffalo, D. (2009). Queering child/hood policies: Canadian examples and perspectives. Contemporary Issues in Early Childhood, 10(3), 291-308. https://doi.org/10.2304/ciec.2009.10.3.291.
+
+Runswick-Cole, K. (2014). 'Us' and 'them': The limits and possibilities of a 'politics of neurodiversity' in neoliberal times. Disability & Society, 29(7), 1117-1129. https://doi.org/10.1080/09687599.2014.910107.
+
+Runswick-Cole, K., Mallet, R., & Timimi, S. (Eds.). (2016). Re-thinking autism: Diagnosis, identity and equality. Jessica Kingsley Publishers.
+
+Russell, G. (2019). Critiques of the neurodiversity movement. In S. K. Kapp (Ed.), Autistic community and the neurodiversity movement (pp. 287-303). Palgrave Macmillan.
+
+Sequenzia, A. (2019a). Communication, interaction, and autism acceptance. https://ollibean.com/communication-autism-acceptance/.
+
+Sequenzia, A. (2019b). Intelligence is an ableist concept. https://ollibean.com/intelligence-is-an-ableist-concept/.
+
+Shakespeare, T. (2016). The social model of disability. In L. J. Davis (Ed.), The disability studies reader (5th ed., pp. 195-203). Routledge.
+
+Shakespeare, T., & Watson, N. (2002). The social model of disability: An outdated ideology? Research in Social Science and Disability, 2, 9-28. https://doi.org/10.1016/S1479-3547(01)80018-X.
+
+Shaw, C. (2019). Developing post-ableist music therapy: An autoethnography exploring the counterpoint of a therapist experiencing illness/disability (Doctoral dissertation). University of Wellington, New Zealand.
+
+Silberman, S. (2015). Neurotribes: The legacy of autism and how to think smarter about people who think differently. Allen and Unwin.
+
+Sinclair, J. (1993). Don't mourn for us. Autism Network International Newsletter: Our Voice, 1(3).
+
+Sinclair, J. (2012). Don't mourn for us. In J. Bascom (Ed.), Loud hands: Autistic people, speaking (pp. 15-21). The Autistic Press.
+
+Singer, J. (1999). Why can't you be normal for once in your life? From a problem with no name to the emergence of a new category of difference. In M. Corker (Ed.), Disability discourse (pp. 59-67). Open University Press.
+
+Singer, J. (2016). NeuroDiversity: The birth of an idea. Kindle eBook.
+
+Smith, I. (2008). Social justice and disability: Competing interpretations of the medical and social models. In K. Kristiansen, S. Vehmas, & T. Shakespeare (Eds.), Arguing about disability: Philosophical perspectives (pp. 15-29). Routledge.
+
+Stige, B., & Aaro, L. E. (2012). Invitation to community music therapy. Routledge.
+
+Stige, B., Ansdell, G., Elefant, C., & Pavlicevic, M. (2010). Where music helps: Community music therapy in action and reflection. Routledge.
+
+Straus, J. (2014). Music therapy and autism: A view from disability studies. Voices: A World Forum for Music Therapy, 14(3). https://doi.org/10.15845/voices.v14i3.785.
+
+Straus, J. N. (2011). Extraordinary measures: Disability in music. Oxford University Press.
+
+The Musical Autist. (2020). The musical autist is a place where diversity is celebrated and accepted. https://themusicalautist.org.
+
+The Neurodiversity Hub. (2020). What is neurodiversity? https://www.neurodiversityhub.org/.
+
+Thompson, G., & Elefant, C. (2019). "But I want to talk to you!" Perspectives on music therapy practice with highly verbal children on the autism spectrum. Nordic Journal of Music Therapy, 28(4), 347-359. https://doi.org/10.1080/08098131.2019.1605616.
+
+Thompson, G., Elefant, C., Roginsky, E., Pickard, B., & Metell, M. (2019, June 28). What can the neurodiversity movement offer music therapy? [Roundtable Presentation]. 11th European Music Therapy Conference: Fields of Resonance, Aalborg, Denmark.
+
+Tsiris, G. (2013). Voices from the 'ghetto': Music therapy perspectives on disability and music (A response to Joseph Straus' book Extraordinary measures: Disability in music). International Journal of Community Music, 6(3), 333-343. https://doi.org/10.1386/ijcm.6.3.333_1.
+
+Tsiris, G. (2018, July 5). A misunderstood guest, a misunderstood host: Music therapy within disability studies. [Paper Presentation]. Cripping the Muse: Music and Disability Studies Summit, University of Leeds, UK.
+
+United Nations (UN) General Assembly. (2006). Convention on the Rights of Persons with Disabilities: Resolution (adopted by the General Assembly, January 24, 2007, A/RES/61/106). https://www.refworld.org/docid/45f973632.html.
+
+Walker, N. (2014). Neurodiversity: Some basic terms & definitions. https://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/.
+
+Walker, N. (2019). Transformative somatic practices and autistic potentials: An autoethnographic exploration (Doctoral dissertation). California Institute for Integral Studies. https://neurocosmopolitanism.com/wp-content/uploads/2020/02/Nick_Walker_Dissertation.pdf.
+
+Waltz, M. (2013). Autism: A social and medical history. Palgrave Macmillan.
+
+Watson, N. (2020). Agency, structure and emancipatory research: Researching disablement. In N. Watson, A. Roulstone, & C. Thomas (Eds.), Routledge handbook of disability studies (2nd ed., pp. 127-139). Routledge.
+
+Winter, P. (2012). Loud hands and loud voices. In J. Bascom (Ed.), Loud hands: Autistic people, speaking (pp. 115-128). Autistic Press.
+
+Wood, C. (2014). Criptiques. May Day Publishing.
+
+Woods, R. (2017). Exploring how the social model of disability can be re-invigorated for autism: In response to Jonathan Levitt. Disability & Society, 32(7), 1090-1095. https://doi.org/10.1080/09687599.2017.1328157.
+
+Woods, R., Milton, D., Arnold, L., & Graby, S. (2018). Redefining critical autism studies: A more inclusive interpretation. Disability & Society, 33(6), 974-979. https://doi.org/10.1080/09687599.2018.1454380.
+
+Young, I. M. (1990). Justice and the politics of difference. Princeton University Press.
+
+Young, I. M. (2011). Justice and the politics of difference. Princeton University Press.
+
+Young, L. (2020). Finding our voices, singing our truths: Examining how quality of life domains manifested in a singing group for autistic adults. Voices: A World Forum for Music Therapy, 20(2). https://doi.org/10.15845/voices.v20i2.2554.

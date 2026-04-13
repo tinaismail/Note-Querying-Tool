@@ -1,0 +1,423 @@
+Group Music Therapy for Proactive Wellness
+MU2MT3
+Rachael Finnerty, MTA, RP, PhD
+Supervisor: Dr. Laurel Trainor
+Committee: Dr. Louis Schmidt, Dr. Geoff Hall
+
+---
+SUMMARY: Key Findings from the Research Studies
+
+This presentation summarizes a program of research investigating group music therapy as a proactive wellness intervention for undergraduate students experiencing stress and anxiety.
+
+Study 1 (Survey, N=786): Found that students already use music to manage wellness (92% listen to music) and 52% expressed interest in online group music therapy, indicating demand beyond traditional talk therapy.
+
+Study 2 (Online RCT, N=84): Demonstrated that online group music therapy significantly reduced state anxiety and self-rated stress pre/post sessions (all p's <.001, large effect sizes d = 1.04-1.77). Biological measures (hair cortisol) showed reductions from week 1-6 (d = .52), though the study was underpowered due to pandemic-related recruitment challenges.
+
+Study 3 (In-Person RCT, N=148): Confirmed greater reductions in stress and anxiety measures in the music therapy group compared to controls. 71% of students reported music therapy as helpful, 40% of control students later attended music therapy, and 66% would continue seeking it out. Thematic analysis revealed six helpful themes (e.g., connection, expression, relaxation) and five challenges (e.g., vulnerability, logistics).
+
+Overall Conclusion: Both in-person and online group music therapy can positively impact stress and anxiety in undergraduate students. Offering music therapy as a proactive wellness option could increase help-seeking behaviours on campus and address the gap between crisis intervention and proactive mental health support.
+
+---
+
+Group Music Therapy to proactively manage stress and anxiety
+
+WHY?
+
+---
+
+Gap in Literature: Music Therapy & Proactive wellness
+Talk therapy offered…. But no MT
+
+Mental Health | Physical Health
+CRISIS | PROACTIVE
+
+Campus Community Impact
+
+---
+
+104 RCTs (d = 0.380, p ≤ .001) physiological outcomes (n=61)
+(d = 0.545, p ≤ .001) psychological stress-related outcomes (n=79)
+
+47 RCT/CCTs
+NO Biomarker Data
+(d = 0.723, p ≤ .001) physiological & psychological stress-related outcomes
+Stegemann T, Geretsegger M, Phan Quoc E, Riedl H, Smetana M. Music Therapy and Other Music-Based Interventions in Pediatric Health Care: An Overview. Medicines. 2019; 6(1):25. https://doi.org/10.3390/medicines6010025
+
+---
+
+Music Therapy
+Listening, Playing, Improvising, Lyric analysis, Song writing
+Canadian Association of Music Therapists (1974)
+Use of music facilitated by a credentialed music therapist (MTA) to reach health care goals.
+
+'Music is revealing, where words are obscuring' (Langer, 1951, p. 206).
+Victor Hugo: "Music expresses that which cannot be said and on which it is impossible to be silent."
+
+---
+
+Sex, Drugs, and Rock & Roll
+
+Mesolimbic dopamine reward pathway
+Autonomic nervous system (ie., HR, Bp)
+Additionally: Emotions (limbic system)
+Regulation
+Memories
+Feeling Connected
+
+Zatorre, R., (2015), Ferreri et al., (2019), Mas-Herrero et al., (2021), Moore, K., (2013),
+Blood & Zatorre (2001), Koelsch S., (2020)
+
+---
+
+DOPAMINE & music
+
+Pleasure responses measured
+a physiological measure of arousal, electrodermal activity (EDA), which is a good objective indicator of the hedonic impact of music (19, 33).
+(ii) subjective ratings of the experienced pleasure (real-time ratings and general pleasure ratings provided after each song).
+Motivational responses were measured by asking participants how much of their own money they were willing to spend for each song, using a previously validated auction paradigm (12, 24).
+Ferreri, L., Mas-Herrero, E., Zatorre, R. J., Ripollés, P., Gomez-Andres, A., Alicart, H., Olivé, G., Marco-Pallarés, J., Antonijoan, R. M., Valle, M., Riba, J., & Rodriguez-Fornells, A. (2019). Dopamine modulates the reward experiences elicited by music. Proceedings of the National Academy of Sciences, 116(9), 3793–3798. https://doi.org/10.1073/pnas.1811878116
+
+---
+
+Neuroscience of music
+Dopamine modulates the reward experiences elicited by music
+Laura Ferreri https://orcid.org/0000-0002-6143-1467 laura.ferreri@univ-lyon2.fr, Ernest Mas-Herrero, Robert J. Zatorre, +8, and Antoni Rodriguez-Fornells laura.ferreri@univ-lyon2.fr
+Authors Info & Affiliations
+Edited by Solomon H. Snyder, The Johns Hopkins University School of Medicine, Baltimore, MD, and approved December 14, 2018 (received for review July 12, 2018)
+
+---
+
+Group Music Therapy
+WHY?
+Financially more viable
+Validating
+
+---
+
+Undergraduate Student Stress and Anxiety
+
+WHY????
+1. Andrews et al., 2024
+2. Sawatzky et al., (2012)
+3. Centre for Addiction and Mental Health. Anxiety, Feelings of Depression and Loneliness Among Canadians Spikes to Highest Levels Since Spring 2020. CAMH. (2022).
+
+Elevated stress associated with anxiety and depression 1,2.
+Highest levels of anxiety and depression are observed among younger Canadians 3
+2022
+September 5, 2012
+Canadian national news magazine ran a cover story entitled ''Mental Health Crisis on Campus: Canadian students feel hopeless, depressed, even suicidal'' (Lunau, 2012).
+
+---
+
+Over Arching Question
+Should group music therapy be offered as a proactive wellness option for students on campus?
+
+Three Research Studies
+3. Finnerty, R., & Trainor, L.J. (2024), Group Music Therapy: Proactive Management of Undergraduate Students' Stress and Anxiety, manuscript submitted to PLOSone Mental Health
+
+1. Finnerty, R., Marshall, S. A., Imbault, C., & Trainor, L. J. (2021). Extra-Curricular Activities and WellBeing: Results From a Survey of Undergraduate University Students During COVID-19 Lockdown Restrictions. Frontiers in Psychology, 12.
+2. Finnerty, R., McWeeny, S., & Trainor, L.J. (2023), Online Group Music Therapy: Proactive Management of Undergraduate Students' Stress and Anxiety. Frontiers in Psychiatry.
+
+---
+
+Tied for first place: Listening to music (92%) and watching movies/series (92%)
+
+Study 1: Survey (N = 786)
+Extra-Curricular Activities and Well-being: Results From a Survey of Undergraduate University Students During COVID-19 Lockdown Restrictions
+Activities students rated as most helpful to their well-being
+(1) Outdoor exercise, (2) Socializing virtually, and (3) Listening to music.
+52% indicated an interest in online group music therapy
+48% art therapy
+40% verbal therapy
+
+Study 1 Informed Study 2…..
+Goal
+Explore the efficacy of online group music therapy as a proactive intervention
+
+---
+
+Study 2
+Online Group Music therapy to undergraduate students.
+
+Music Therapy Approaches
+Free-Improvisation
+Guided Imagery in Music
+Eclectic
+Vocal Psychotherapy
+Neurologic Music Therapy
+Nordoff-Robbins
+Psychodynamic
+Behavioural
+Community Music Therapy
+
+Community Music Therapy is a way of doing and thinking about music therapy where the larger cultural, institutional and social context is taken into consideration.
+1. Even Ruud, CMTherapy, www.hf.uio.no
+
+In other words
+Let's shift campus culture to normalize help seeking behaviours and proactive wellness.
+
+---
+
+Study 2: Online Group Music Therapy
+
+RCT, (N = 84)
+
+n=28
+n=20
+n=18
+n=18
+
+A total of 72/84 students self-described their ethnicity, broadly reporting:
+32 Asian
+14 White
+6 African
+6 European
+6 cross-continent
+6 North American
+1 Caribbean
+1 Jewish
+
+---
+
+Online Group Therapy Study #2
+Why active vs receptive music therapy interventions?
+
+Active
+Lyric analysis
+Playing instruments
+Singing
+Song writing
+Improvising
+
+Receptive
+Music Listening
+
+Therapy Group
+
+---
+
+TEMPLATES & Guidelines
+
+Opening Quote & Ice Breaker
+Therapist will sing and self-accompany with an instrument and/or use pre-recorded music based on student preferences.
+
+Facilitated Reflection on a Theme Related to Stress & Anxiety
+Lyric creation facilitated for a piece of music using either a pre-composed or original melody. Participants will have the option to sing along. Music listening (choice of music guided by participants). Musical improvisation
+
+Closing Activity & Quote
+Live or recorded music facilitated progressive muscle relaxation.
+
+Template for all Music Therapy Groups
+
+Group Guidelines
+
+---
+
+Pre/Post each Online Group Music Therapy Session
+State Anxiety
+Stress (1-5)
+
+Pre/Post each online Group Music Therapy Session
+* * *
+* * *
+* all p's <.001
+
+Average Pre | Average Post
+d = 1.77 | d = 1.77
+d = 1.10 | d = 1.22
+d = 1.24 | d = 1.04
+
+n=39
+
+---
+
+Hair Sample (Cortisol)
+Perceived Stress Scale
+All Participants Week 1 & 6
+
+Cortisol (hair sample)
+
+WHY?
+
+p = .02/.08
+Week 1-6 Perceived Stress Scale (n=68) **
+*
+Week 1-6 Cortisol (n=39)
+(n2 = .25)
+(d = .76)
+(d = .52)
+*
+
+---
+
+Study 2: Limitations
+Pandemic
+Underpowered
+Recruitment
+Remote data collection
+No music instruments
+
+Study 2: Summary
+Stress and anxiety outcomes do not significantly differ between therapy groups
+Larger sample size required to increase confidence in findings
+Reductions in stress and anxiety measures pre/post online music therapy groups
+
+Study 3
+In-Person Group Music Therapy
+Larger sample size
+
+---
+
+Study 3: In-Person Group Music Therapy
+
+RCT (N = 148)
+
+143/148 students self-described their ethnicity, broadly reporting:
+European/White/Caucasian (n = 46)
+South Asian (n = 30)
+Middle-Eastern (n = 13)
+East-Asian (n = 14)
+Mixed Ethnicity (n = 10)
+North American (n = 6)
+sub-Saharan African (n = 8)
+Caribbean (n = 6)
+Indigenous (n = 3)
+Black (n = 2)
+Jewish (n = 1)
+Latino (n = 2)
+North African (n = 2)
+
+---
+
+InPerson Group Music Therapy Study #3
+
+S6 File. Examples of specific Music Therapy interventions implemented.
+
+Musical check-in. Participants created a sound that described how they were feeling that day.
+Exploring different instruments, passing the various instruments around in a circle
+Participants sat in a circle facing the wall and engaging in improvisation and then turned around to face the group and improvise.
+Shared strategies on how to utilize mindfulness to help with stress and anxiety. Discussed importance of incorporating mindfulness as part of self-care in promoting wellness and healthy functioning.
+While playing "Rhapsody and Blue", each participant had a blank piece of paper and was asked to draw anything on their page based on what they heard, felt, pictured, when listening. After 2-3 minutes of listening, the music would pause and participants passed their sheet to the person to their right to continue to add to the drawing until each person's original paper returned to them. At the end, each participant held up their artwork.
+Music and breathing, box breathing technique
+Lyric analysis to the song "Stop this Train" by John Mayer. Participants listened to the music while following along to the lyrics on paper. Participants asked to reflect and think about the message of the song and if there were any specific lines in the piece that resonated with them.
+Utilized a template to the song "About Damn Time" by Lizzo and encouraged participants to create a song that is reflective of how they were feeling, values, etc. This provided the opportunity for participants to externalize their thoughts and emotions, tell their story, develop a sense of self, gain insight or clarify thoughts and feelings, choice and decision making.
+Collectively created a group music playlist which allowed participants to share some of their favourite songs.
+Participants reflected on songs that provide them with a sense of peace/grounding/reassurance/relief in the midst of stressful experiences.
+Split the group into two groups, participants selected an instrument to create a short piece with their group.
+Main themes included school stress and relationships (romantic and family)
+Music therapist sang and accompanied themself on guitar using songs chosen by the students (students played along with an instrument).
+Each week students were prompted to reflect on a quote accompanied by either recorded or live guitar music.
+Improvisation on themes related to stress (playing from stressed to relaxed).
+Collaborative song writing on stress using the song Stressed Out by 21 Pilots.
+Mantra writing/intention setting to music.
+Song share/discussion with drawing to music.
+
+---
+
+Pre/Post each Group Music Therapy Session
+
+Finnerty, R., & Trainor, L.J. (2024), Group Music Therapy: Proactive Management of Undergraduate Students' Stress and Anxiety, manuscript submitted to PLOSone Mental Health
+
+Figure 1. Average Changes in (A) state anxiety (STAI-S) and (B) self-rated stress from pre- to post- each music therapy session and average pre-post scores across weeks in (C) STAI-S and (D) self-rated stress. Error bars reflect ±1 standard error of the mean.
+
+---
+
+Average Change Week 1 to 6
+
+Figure 2. Week 1 to Week 6 changes in STAI-S, Self-rated stress, PSS and Cortisol. Average change in (A) state anxiety (STAI-S), (B) self-rated stress (C) Perceived Stress Scale and (D) cortisol by group, from week 1 to week 6. Error bars reflect ±1 standard error of the mean.
+
+Finnerty, R., & Trainor, L.J. (2024), Group Music Therapy: Proactive Management of Undergraduate Students' Stress and Anxiety, manuscript submitted to PLOSone Mental Health
+
+Figure 2
+
+---
+
+What about students who are musical?
+(GOLD-MSI)
+
+Does personality type matter?
+(TIPI)
+
+Bayesian correlations were generally weak (Bayes factors < 1)
+Bayesian correlations were generally weak (Bayes factors < 1)
+
+71% of the students reported music therapy as helpful.
+
+AND
+- 40% control students attended group music therapy after the study.
+66% would continue to seek out music therapy.
+
+---
+
+Figure 3. Six themes related to group music therapy being helpful (total comments = 85); and five themes related to the challenges of engaging in group music therapy (total comments = 37)
+
+Finnerty, R., & Trainor, L.J. (2024), Group Music Therapy: Proactive Management of Undergraduate Students' Stress and Anxiety, manuscript submitted to PLOSone Mental Health
+
+Thematic Analysis
+
+---
+
+Study 3: Summary
+Greater reductions observed in music therapy group in comparison to control group
+Reductions in stress and anxiety measures pre/post participating in group music therapy
+
+In a nutshell
+Study 1. Students are already using music to manage wellness, and are interested in therapy options beyond talk therapy.
+Study 2 & 3. Biological, Psychometric, and questionnaire data support the use of music therapy to proactively manage stress and anxiety.
+
+---
+
+Take home messages
+Students need choices for proactive wellness
+Considering students' natural affiliation with music, offering Music therapy could increase proactive help seeking behaviours on campus.
+Campus Culture needs to normalize mental health activities, Equal to physical health activities
+Relying on reactive support is too costly
+
+---
+
+#TeamWorkMakesTheDreamWork
+
+Dr. Mayu Nishimura
+Dr. David Streiner
+Sarah Boo, MTA, RP
+Amy DiNino, MTA, RP
+Justine Leung, MTA, MSW
+Priya Shah, MTA, RP
+Alicia House, MTA, RP
+Anthony Fragomeni, MTA, RP
+Kaitlyn Aquino, MTA
+Aimee Berends MTA, RP
+
+---
+
+Student Collaborations
+
+Wong, M. M., Tahir, T., Wong, M. M., Baron, A., & Finnerty, R. (2021). Biomarkers of Stress in Music Interventions: A Systematic Review. Journal of music therapy, 58(3), 241–277. https://doi.org/10.1093/jmt/thab003
+2. Finnerty, R., Zhang, K., Tabuchi, R. A., & Zhang, K. (2022). The Use of Music to Manage Burnout in Nurses: A Systematic Review. American journal of health promotion : AJHP, 36(8), 1386–1398. https://doi.org/10.1177/08901171221105862
+3. Cai, R., Zakaryan, G., Zhang, K., & Finnerty, R. (2023). Connecting through music: A systematic review of the use of music to reduce loneliness during the COVID-19 pandemic. Music and Medicine, 15(3), 171–183. https://doi.org/10.47513/mmd.v15i3.916
+4. Zhang, K., Tabuchi, R. A., Zhang, K., & Finnerty, R. (2024). Music engagement for stress and anxiety in adults during the COVID-19 pandemic: A systematic review. Psychology of Music, 0(0). https://doi.org/10.1177/03057356231225670
+
+>2000 Students/Semester
+#CollaborationIsKey
+
+---
+
+In Summary
+
+This webinar highlights the use of music therapy to support mental health
+Promotion of mental health supports is important (not only for individuals with a diagnosis or who are in crisis.)
+Both in-person and online group music therapy can have positive impacts on stress and anxiety.
+A shift in campus culture (and society as a whole), is required to normalize engage in mental health activities.
+Mental health and mental illness do not mean the same thing.
+Everyone needs to manage and maintain their mental and physical health.
+Everyone does NOT have a mental or physical illness.
+
+---
+
+Take Care & Remember...
+
+Please review the course outline and A2L announcements for important course information.
+Reach out to your TA or myself with any questions.
+Reach out to your TA if you would like to review a quiz or midterm.
+
+All the best, Rachael (your course instructor)

@@ -1,0 +1,101 @@
+# Chapter 1
+
+## Neurologic Music Therapy: From Social Science to Neuroscience
+
+Michael H. Thaut, Gerald C. McIntosh, and Volker Hoemberg
+
+1.1 Introduction
+
+Modern music therapy, starting around the middle of the twentieth century, has traditionally been rooted mostly in social science concepts. The therapeutic value of music was considered to derive from the various emotional and social roles it plays in a person’s life and a society’s culture. Music has been given the age-old function of emotional expression, of creating and facilitating group association, integration, and social organization, of symbolically representing beliefs and ideas, and of supporting educational purposes.
+
+However, the role of music in therapy has undergone some dramatic shifts since the early 1990s, driven by new insights from research into music and brain function. In particular the advent of modern research techniques in cognitive neuroscience, such as brain imaging and brain-wave recordings, has enabled us to study humans’ higher cognitive brain functions in vivo. A highly complex picture of brain processes involved in the creation and perception of music has emerged. Brain research involving music has shown that music has a distinct influence on the brain by stimulating physiologically complex cognitive, affective, and sensorimotor processes. Furthermore, biomedical researchers have found not only that music is a highly structured auditory language involving complex perception, cognition, and motor control in the brain, but also that this sensory language can effectively be used to retrain and re-educate the injured brain.
+
+The fascinating consequence of this research for music therapy has been a new body of neuroscientific research that shows effective uses of music with therapeutic outcomes that are considerably stronger and more specific than those produced within the general concept of “well-being.” Research provides evidence that music works best in very different areas of therapeutic applications than was previously imagined or tried.
+
+Translational biomedical research in music has led to the development of “clusters” of scientific evidence that show the effectiveness of specific music interventions. In the late 1990s, researchers and clinicians in music therapy, neurology, and the brain sciences began to classify these evidence clusters into a system of therapeutic techniques that are now known as neurologic music therapy (NMT). This system has resulted in the unprecedented development of standardized clinical techniques supported by scientific evidence. Currently, the clinical core of NMT consists of 20 techniques that are defined by (1) the diagnostic treatment goal and (2) the role of the music—or mechanisms in the processes of music perception and music production—for achieving the treatment goal. This book will cover all 20 techniques from a clinician’s point of view, including the technique definitions, diagnostic applications, research background, and most importantly—examples of exercise protocols using each technique for clinical application. However, since NMT was developed out of a research database, it will continue to evolve, shaped by the emergence of new knowledge.
+
+This transition is a very critical step in the historical understanding of music in therapy and medicine. Rather than being viewed as an ancillary and complementary discipline that can enhance other forms of “core” therapy, the therapeutic music exercises (TMEs) in NMT—applied within a neuroscientific framework—can be applied effectively in core areas of training or retraining of the injured brain, such as motor therapy, speech and language rehabilitation, and cognitive training.
+
+By shifting one’s notion of music in therapy from functioning as a carrier of sociocultural values in the therapeutic process to a stimulus that influences the neurophysiological basis of cognition and sensorimotor functions, a historical paradigm shift has emerged, driven by scientific data and insight into music and brain function. We can now postulate that music can access control processes in the brain related to control of movement, attention, speech production, learning, and memory, which can help to retrain and recover functions in the injured or diseased brain.
+
+Six basic definitions articulate the most important principles of NMT:
+
+1. NMT is defined as the therapeutic application of music to cognitive, affective, sensory, language, and motor dysfunctions due to disease or injury to the human nervous system.
+2. NMT is based on neuroscientific models of music perception and music production and the influence of music on changes in non-musical brain and behavior function.
+3. Treatment techniques are standardized in terminology and application, and are applied as TMEs which are adaptable to a patient’s needs.
+4. The treatment techniques are based on data from translational scientific research, and are directed towards non-musical therapeutic goals.
+5. In addition to training in music and neurologic music therapy, practitioners are educated in the areas of neuroanatomy and physiology, neuropathology, medical terminology, and (re)habilitation of cognitive, motor, speech, and language functions.
+6. NMT is interdisciplinary. Music therapists can meaningfully contribute to and enrich the effectiveness of treatment teams. Non-music therapists who are trained in other allied health professions can effectively adapt the principles and materials of NMT for use in their own certified practice.
+
+1.2 The rational scientific mediating model (RSMM)
+
+Music is an ancient intrinsic biological language of the human brain. Esthetically complex “modern” art works (e.g., statues, figurines, paintings, ornaments, functional musical instruments) appear with the advent of the modern human brain roughly 100,000 years ago—tens of thousands of years before artifacts of written language and numeracy.
+
+Research now shows a fascinating reciprocal relationship between music and the brain. Music is a product of the human brain. However, the brain that engages in music is also changed by engaging in music. Brain changes due to music learning and performance have been well documented. However, music does not engage “music-specific” brain areas, but rather music processing engages in a highly distributed and hierarchical fashion—from spinal and various subcortical levels to cortical regions—“multimodal” brain areas that mediate general cognitive and motor control centers. There is also strong evidence that music shares processing centers with speech and language functions. One can safely say that music engages widely distributed neural networks that are shared with general “non-musical” cognitive, motor, and language function. This is an important rationale for understanding music as a “mediating” language in the therapy process. Music processing in the brain does not stop at music. Music processing can engage, train, and retrain non-musical brain and behavior function.
+
+This is an important point for music in therapy, because it means that its theoretical models have to be based on an understanding of the processes involved in music perception first, before translational therapeutic concepts can be developed. This evolution of a path of discovery to translate music into a “mediating” language of therapy and rehabilitation is conceptualized in the rational scientific mediating model (RSMM) (Thaut, 2005).
+
+There are suggestions in the music therapy literature that such a scientific anchoring of music therapy in psychological and physiological models of musical behavior was originally envisioned by pioneers such as Gaston (1968), Sears (1968), and Unkeret and Thaut (2002) in their thinking about the future foundations of music therapy. NMT has picked up these strands of early thinking and exploration, aiming to build them into a coherent scientific theory and clinical system.
+
+The RSMM functions as an epistemological model—that is, a model to show ways of generating knowledge concerning the linkage between music and therapy. In the epistemological application, the RSMM helps us to know how to know, and to know how to investigate (or to learn how to learn). It does not predetermine the specific content of the mechanisms in music that produce therapeutic effects; it shows how to find them in a logical, systematic structure by linking the proper bodies of knowledge and showing what information is needed to logically support the next steps of inquiry and thus build a coherent theory.
+
+The RSMM is based on the premise that the scientific basis of music therapy is found in the neurological, physiological, and psychological foundations of music perception and production. On this basis, the logical structure of the RSMM proceeds according to the following steps of investigation:
+
+1. musical response models: investigating the neurological, physiological, and psychological foundations of musical behavior with regard to cognition and affect, speech/language, and motor control parallel non-musical response models: investigating overlaps and shared processes between musical and non-musical brain/behavior function in similar areas of cognition, speech/language, and motor control mediating models: investigating whether, where shared and overlapping processes are found, music can influence parallel non-musical brain and behavior functions
+2. clinical research models: investigating, where mediating models are found, whether music can influence (re)learning and (re)training in therapy and rehabilitation.
+
+1.2.1 Step 1: musical response models
+
+In this step, the RSMM requires investigations into neurobiological and behavioral processes underlying music perception and performance in the areas of cognition, motor control, and speech/language.
+
+Relevant questions addressed by research include, among others, the following:
+
+- What processes in music learning build effective memories for music?
+- Which processes in music shape and control musical attention?
+- How do music perception and performance engage executive functions?
+- What processes in music shape and influence mood and affective responses?
+- How does music learning shape vocal control?
+- What are the processes underlying effective musical motor control?
+
+1.2.2 Step 2: parallel non-musical response models
+
+In this step the RSMM requires a two-step investigative process, with each step built logically upon the other. In the first step, basic relevant concepts and mechanisms, as well as the structure and organization of non-musical processes in cognition, motor control, and speech/language function are investigated. In the second step, these findings are compared for shared processes in the parallel musical functions.
+
+Relevant questions addressed by research include, among others, the following:
+
+- Are there processes shared between non-musical and musical attention control, memory formation, executive operations, affective experiences, motor control, sensory perception, and speech/language perception and production?
+- Are there shared processes in music that can enhance or optimize parallel non-musical functions?
+
+If shared processes exist that may entail—at least theoretically or within the music domain—enhancing or optimizing mechanisms, the RSMM model would proceed to a third step, investigating this potential effect.
+
+Three examples may illustrate this search for shared processes.
+
+- Optimizing timing is critical for non-musical and musical motor learning. In music, motor timing is driven by the auditory rhythmic structure of the music. So can auditory rhythm as a temporal template not only facilitate motor learning on musical instruments, but also enhance neuromuscular control and motor planning in (re)training of functional non-musical upper and lower extremity movements?
+- Music and speech, especially in singing, share multiple control processes with regard to auditory, acoustical, temporal, neuromuscular, neural, communicative, and expressive parameters. So can music—by engaging these shared parameters—enhance speech and language perception and production (e.g., by accessing alternative speech pathways, controlling timing of speech motor output, strengthening respiratory and neuromuscular speech control), enhance comprehension of communication symbols and language learning, or shape speech acoustics such as pitch, inflection, timbre, or loudness?
+- Temporal processing (e.g., with regard to sequencing) plays an important role in cognitive functions such as attention, memory formation, and executive control. Music is an abstract auditory language that shapes attention, memory, and executive control to a large extent through its intrinsic temporal structure. So can musical structure enhance cognitive processes outside of music, such as non-musical attention and memory?
+
+1.2.3 Step 3: mediating models
+
+Investigations at this step proceed by building and studying hypotheses based on the discoveries in Step 2. The effect of music on non-musical behavior and brain function at this step may involve studies with healthy subjects or with clinical cohorts, but looking at mechanisms or short-term effects, providing evidence for the feasibility of future clinical research. For example, Step 3 research has investigated the effect of rhythmic-musical cues on motor control (gait, arms) or the effect of using musical instruments to simulate functional arm and hand movements in upper extremity rehabilitation. Studies have investigated whether speech fluency or intelligibility can be enhanced while following a rhythmic timing cue. Cognitive research has investigated whether musical mood vectoring changes the self-perceived mood state in healthy subjects or patients, and whether a song can be a mnemonic device or scaffold for remembering non-musical information (“ABC song”). If significant changes in non-musical behavior with clinical relevance due to music are found, the RSMM would proceed to Step 4.
+
+1.2.4 Step 4: clinical research models
+
+Research at this step takes the findings from Step 3 and applies them to investigations in a clinical, translational context. Step 4 research proceeds with patient populations and looks at meaningful therapeutic effects of music in (re)training brain and behavior function. Step 4 research studies the effects of interventions or intervention models on long-term learning and training. It is important to remember that NMT utilizes in most techniques the structural perceptual attributes of music to exercise therapeutic or rehabilitative functions or access alternative pathways to facilitate recovery and brain plasticity. Only the technique known as psychosocial training and counseling (MPC) also utilizes interpretative and emotionally expressive functions in musical responses for therapy. Exercises in the technique known as associative mood and memory training (MMT) are based on paradigms of learning and remembering through classical conditioning (Hilgard and Bower, 1975) and associative network theory mechanisms (Bower 1981) to connect mood and memory facilitation.
+
+1.3 Summary
+
+By following the principles of evidence-based medicine, neuroscience-guided rehabilitation, and data-driven therapy, NMT has quickly established itself within the mainstream of therapy and rehabilitation. Furthermore, NMT focuses on music as a biological language whose structural elements, sensory attributes, and expressive qualities engage the human brain comprehensively and in a complex manner. In NMT, music as a therapeutic agent does not operate as a cultural artifact, but rather it operates as core language of the human brain. In this way, the function of music as a language of learning and retraining the injured brain can be fully comprehended and appraised by clinicians, scientists, and musicians alike. NMT is advanced and evidence-based music therapy practice. However, since the basis for its techniques and the mechanisms whereby music affects the brain are based on neurobiological principles of brain and behavior, NMT allows music to be integrated into an interdisciplinary context of rehabilitation modalities.
+
+References
+
+Bower G H (1981). Mood and memory. American Psychologist, 36, 129–48.
+
+Gaston E T (1968). Music in Therapy. New York: MacMillan Company.
+
+Hilgard E L and Bower G H (1975). Theories of Learning. Englewood Cliffs, NJ: Prentice Hall.
+
+Sears W W (1968). Processes in music therapy. In: E T Gaston (ed.), Music in Therapy. New York: Macmillan Company pp. 30–46.
+
+Thaut M H (2005). Rhythm, Music, and the Brain: scientific foundations and clinical applications. New York: Routledge.
+
+Unketer R F and Thaut M H (2002). Music Therapy in the Treatment of Adults with Mental Disorders. St Louis, MO: MMB Music.

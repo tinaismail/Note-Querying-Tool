@@ -1,0 +1,71 @@
+Music Therapy and Parkinson's Disease (PD)
+
+PD is a chronic progressive neurological disorder involving degeneration of the dopaminergic system.
+Motor and Non-Motor Symptoms
+
+Best MT model or Approach?
+Which approaches and interventions could be beneficial for symptoms of PD?
+
+_______
+[We explored the efficacy of active music therapy (MT) on motor and emotional functions in patients with PD.]
+Active Music Therapy in Parkinson's Disease: An integrative method for motor and emotional rehabilitation
+Claudio Pacchetti, MD, francesca macini, MD, roberto aglieri, cira fundaro, md, emilia martignoni, md, and giuseppe nappi, md
+
+Abstract
+
+Background: Modern management of Parkinson's disease (PD) aims to obtain symptom control, to reduce clinical disability, and to improve quality of life. Music acts as a specific stimulus to obtain motor and emotional responses by combining movement and stimulation of different sensory pathways. We explored the efficacy of active music therapy (MT) on motor and emotional functions in patients with PD.
+
+Methods: This prospective, randomized, controlled, single-blinded study lasted 3 months. It consisted of weekly sessions of MT and physical therapy (PT). Thirty-two patients with PD, all stable responders to levodopa and in Hoehn and Yahr stage 2 or 3, were randomly assigned to two groups of 16 patients each. We assessed severity of PD with the Unified Parkinson's Disease Rating Scale, emotional functions with the Happiness Measure, and quality of life using the Parkinson's Disease Quality of Life Questionnaire. MT sessions consisted of choral singing, voice exercise, rhythmic and free body movements, and active music involving collective invention. PT sessions included a series of passive stretching exercises, specific motor tasks, and strategies to improve balance and gait.
+
+Results: MT had a significant overall effect on bradykinesia as measured by the Unified Parkinson's Disease Rating Scale (p < .034). Post-MT session findings were consistent with motor improvement, especially in bradykinesia items (p < .0001). Over time, changes on the Happiness Measure confirmed a beneficial effect of MT on emotional functions (p < .0001). Improvements in activities of daily living and in quality of life were also documented in the MT group (p < .0001). PT improved rigidity (p < .0001).
+
+Conclusions: MT is effective on motor, affective, and behavioral functions. We propose active MT as a new method for inclusion in PD rehabilitation programs.
+_______
+
+
+
+Should music therapy be included in pd symptom management?
+Background research
+- Children with physical disabilities (self-expression)
+- Geriatric care
+- Depression
+- Anxiety reduction (pre-op)
+- Modify release of hormones
+- Modify cardiac function and breathing
+
+Active vs Passive MT
+Does MT improve motor function?
+Emotional well-being?
+Quality of life?
+
+DESIGN
+
+- RCT (Music Thrapy or physiotherapy) - variables controlled
+- 32 PD outpatients, average age 62/63 yrs
+- Regular medication
+- 3 months
+
+The Measures
+- Unified Parkinson's Disease Rating Scale (UPDRS)
+- Motor examination (weeks 1, 3, 5, 7, 9, 11) + 2months after
+- HM (QL)
+
+Group Music Therapy Session
+- Listening to relaxing music
+- Visualization
+- Choral singing/facial expresson
+- Breathing/voice exercises
+- Rhythmic movement (upper/lower limbs/gait)
+- music improvising
+- piano, organ, metallophones, xylophones, drums, wood blocks, cymbals
+
+RESULTS
+- MT - significant effect on bradykinesia (UPDRS)
+- Improvement in happiness measure (emotional functions)
+- Improvements in ADL & QL
+
+Music Therapy can have a positive effect on symptoms of PD
+- Singing
+- Listening
+- Improvisation
+- Movement

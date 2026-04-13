@@ -1,0 +1,350 @@
+Active Music Therapy in Parkinson’s Disease: An Integrative Method for Motor
+and Emotional Rehabilitation
+CLAUDIO PACCHETTI, MD, FRANCESCA MANCINI, MD, ROBERTO AGLIERI, CIRA FUNDARÒ, MD, EMILIA MARTIGNONI, MD,
+AND GIUSEPPE NAPPI, MD
+
+            Background: Modern management of Parkinson’s disease (PD) aims to obtain symptom control, to reduce clinical
+            disability, and to improve quality of life. Music acts as a specific stimulus to obtain motor and emotional responses
+            by combining movement and stimulation of different sensory pathways. We explored the efficacy of active music
+            therapy (MT) on motor and emotional functions in patients with PD. Methods: This prospective, randomized,
+            controlled, single-blinded study lasted 3 months. It consisted of weekly sessions of MT and physical therapy (PT).
+            Thirty-two patients with PD, all stable responders to levodopa and in Hoehn and Yahr stage 2 or 3, were randomly
+            assigned to two groups of 16 patients each. We assessed severity of PD with the Unified Parkinson’s Disease Rating
+            Scale, emotional functions with the Happiness Measure, and quality of life using the Parkinson’s Disease Quality
+            of Life Questionnaire. MT sessions consisted of choral singing, voice exercise, rhythmic and free body movements,
+            and active music involving collective invention. PT sessions included a series of passive stretching exercises,
+            specific motor tasks, and strategies to improve balance and gait. Results: MT had a significant overall effect on
+            bradykinesia as measured by the Unified Parkinson’s Disease Rating Scale (p ⬍ .034). Post–MT session findings
+            were consistent with motor improvement, especially in bradykinesia items (p ⬍ .0001). Over time, changes on the
+            Happiness Measure confirmed a beneficial effect of MT on emotional functions (p ⬍ .0001). Improvements in
+            activities of daily living and in quality of life were also documented in the MT group (p ⬍ .0001). PT improved
+            rigidity (p ⬍ .0001). Conclusions: MT is effective on motor, affective, and behavioral functions. We propose active
+            MT as a new method for inclusion in PD rehabilitation programs. Key words: music therapy, Parkinson’s disease,
+            rehabilitation.
+
+
+                                                                        tals, rehabilitation centers, special schools, and hos-
+                                                                        pices (8, 9), the literature contains few assessments of
+   ADL ⫽ activities of daily living; ANOVA ⫽ analysis of
+                                                                        MT in medical care. Music has been used as a form of
+   variance; HM ⫽ Happiness Measure; MS ⫽ motor sub-
+   scale; MT ⫽ music therapy; PD ⫽ Parkinson’s disease;                 therapy for many different diseases and, unless hear-
+   PDQL ⫽ Parkinson’s Disease Quality of Life Question-                 ing is totally affected, may indeed be experienced and
+   naire; PT ⫽ physical therapy; UPDRS ⫽ Unified Par-                   appreciated by even the most severely physically or
+   kinson’s Disease Rating Scale.                                       cognitively impaired subjects (10). MT has been
+                                                                        widely used in the rehabilitation of handicapped chil-
+                                                                        dren, providing one of the few ways in which these
+                                                                        subjects can attain self-expression (11). In addition,
+   INTRODUCTION                                                         MT is recommended in geriatric care to improve the
+   Modern management of PD as well as efforts to                        social, psychological, intellectual, and cognitive per-
+obtain better symptom control are directed toward re-                   formance of older people (12, 13). Depressed older
+covering the patient’s functional status, thus improv-                  adults, in particular, can experience the effects of pas-
+ing both clinical disability and quality of life (1– 4). To             sive MT (14, 15). MT reduces anxiety in patients un-
+achieve global improvement in personal well-being,                      dergoing cardiac procedures throughout the perioper-
+drugs, in accordance with standard guidelines, as well                  ative period and in those who have had a myocardial
+as interdisciplinary measures, such as physical exer-                   infarction (16, 17); moreover, music seems to relax
+cise, occupational and speech therapy, and psycholog-                   patients undergoing surgery (18) or invasive diagnostic
+ical, nutritional, and social counseling, have been                     procedures (19). It has also been suggested that music
+used(5–7). We explored MT as a method for inclusion                     may modify release of stress hormones and cardiac
+in PD rehabilitation programs. Even though MT is                        function (20) as well as the respiratory pattern (21).
+widely used in a variety of settings, including hospi-                  Finally, anecdotal evidence and clinical studies show
+                                                                        that MT improves the cognitive functions and quality
+                                                                        of life of patients with Alzheimer’s disease (22–24).
+   From the Parkinson’s Disease and Movement Disorders Centre,
+Istituto di Ricerca e Cura a Carattere Scientifico C. Mondino, Uni-        There are two main branches of MT, active and
+versity of Pavia, Pavia, Italy.                                         passive. In brief, active MT is based on the improvisa-
+   Address reprint requests to: Dr. C. Pacchetti, Parkinson’s Disease   tion of music by the therapist and patients, who play
+and Movement Disorders Centre, IRCCS C. Mondino, University of          an active part by using instruments and voice. The use
+Pavia, Via Palestro 3, 27100 Pavia, Italy. Email: pacchett@
+mondino.it
+                                                                        of instruments is structured to involve all the sensory
+   Received for publication December 3, 1998; revision received         organs; the rhythmic and melodic components of mu-
+September 20, 1999.                                                     sic may be used as specific stimuli to obtain certain
+
+
+386                                                                                          Psychosomatic Medicine 62:386 –393 (2000)
+0033-3174/00/6203-0386
+Copyright © 2000 by the American Psychosomatic Society
+MUSIC THERAPY IN PARKINSONⴕS DISEASE
+
+motor and emotional responses, thus combining move-                               TABLE 1.     Characteristics of Study Population
+ment and stimulation of different sensory pathways,
+                                                                                                                           Group
+that is, auditory and tactile (multiple sensory stimula-
+tion), with a well-established emotional quality. Pas-                                                               MT              PT
+sive MT is conducted with the patient at rest. With the
+aim of producing a state of mental relaxation, the ther-                 No. of patients                       16            16
+                                                                         Gender
+apist plays calming music and invites the patient to                      Male                                 12            11
+visualize peaceful images.                                                Female                                4             5
+   PD is a common degenerative disease dominated by                      Mean age, (SD), years                 62.5 (5)      63.2 (5)
+a disorder of movement, consisting of bradykinesia                       Mean duration of illness (SD), years   4.8 (3)       5.2 (2)
+(slowness of movement), hypokinesia (reduced move-                       Mean dosage (SD), mg/day, and no.
+                                                                             of patients
+ments), tremor, rigidity, and postural and gait abnor-                    Levodopa alone                      583 (189), 3 540 (148), 5
+malities; mood changes are also a major component of                      Levodopa in association with        596 (116), 13 591 (113), 11
+PD (6).                                                                      other drugs
+   In view of the features of the disease, application of                 Pergolide                             2 (1), 9      2 (1), 6
+active MT would seem to be appropriate in PD, even                        Bromocryptine                        14 (5), 4     12 (5), 5
+                                                                         Mean score (SD)
+though there are, so far, no objective reports on the                     UPDRS-MS                             40.2 (7.7)    40.7 (7)
+efficacy of this kind of therapy in patients with PD.                     UPDRS-ADL                            21.7 (4)      21.7 (5.5)
+The first aim of this study was to verify the efficacy of                 HM combination                       42.6 (15.6)   41.7 (13.7)
+MT on motor involvement in patients with PD. More-                        HM part 1                             5 (1.7)       5.3 (1.3)
+over, given that PT is the main nonpharmacologic                          PDQL                                114 (3.5)     115.2 (2.6)
+course of intervention in PD (25), we conducted a
+randomized, controlled, single-blinded, prospective
+                                                                            Study Design
+study comparing PT with MT. In addition to measur-
+ing clinical changes, we evaluated the influence of                          This prospective, randomized, controlled study lasted 3 months.
+these two types of therapy on both the emotional well-                   Patient examinations were conducted 1 hour before the start of the
+                                                                         PT or MT session by a neurologist (C.P.), blinded to the patient’s
+being and quality of life of PD patients.                                study group, after the first morning dose of therapy. Postsession
+                                                                         examinations were conducted within 1 hour after conclusion of the
+                                                                         session, before the second drug was taken. The UPDRS motor exam-
+                                                                         ination (score range, 0 –108) was administered to all patients at
+   METHODS
+                                                                         weeks 1, 3, 5, 7, 9, and 11 of the study and at the follow-up
+   Subjects                                                              examination, which was conducted 2 months after completion of the
+                                                                         study. The patient’s emotional state was assessed at the same time as
+    Thirty-two PD outpatients were invited to participate in the         motor function, using the short, self-administered HM, which was
+study, and informed consent was obtained. To meet our selection          filled in by the patient. In brief, the HM consists of two self-report
+criteria, patients had to have idiopathic PD and had to be responsive    questionnaires (parts 1 and 2) that measure emotional well-being.
+to levodopa therapy or other dopaminergic treatments. Patients with      Part 1 examines the intensity (or quality) of happiness (ie, how
+secondary parkinsonism (ie, due to vascular disease, drugs, infec-       happy or unhappy Active Music Therapy in Parkinson’s Disease: An Integrative Method for Motor and Emotional Rehabilitation
+CLAUDIO PACCHETTI, MD, FRANCESCA MANCINI, MD, ROBERTO AGLIERI, CIRA FUNDARÒ, MD, EMILIA MARTIGNONI, MD, AND GIUSEPPE NAPPI, MD
+
+Background: Modern management of Parkinson’s disease (PD) aims to obtain symptom control, to reduce clinical disability, and to improve quality of life. Music acts as a specific stimulus to obtain motor and emotional responses by combining movement and stimulation of different sensory pathways. We explored the efficacy of active music therapy (MT) on motor and emotional functions in patients with PD. Methods: This prospective, randomized, controlled, single-blinded study lasted 3 months. It consisted of weekly sessions of MT and physical therapy (PT). Thirty-two patients with PD, all stable responders to levodopa and in Hoehn and Yahr stage 2 or 3, were randomly assigned to two groups of 16 patients each. We assessed severity of PD with the Unified Parkinson’s Disease Rating Scale, emotional functions with the Happiness Measure, and quality of life using the Parkinson’s Disease Quality of Life Questionnaire. MT sessions consisted of choral singing, voice exercise, rhythmic and free body movements, and active music involving collective invention. PT sessions included a series of passive stretching exercises, specific motor tasks, and strategies to improve balance and gait. Results: MT had a significant overall effect on bradykinesia as measured by the Unified Parkinson’s Disease Rating Scale (p < .034). Post–MT session findings were consistent with motor improvement, especially in bradykinesia items (p < .0001). Over time, changes on the Happiness Measure confirmed a beneficial effect of MT on emotional functions (p < .0001). Improvements in activities of daily living and in quality of life were also documented in the MT group (p < .0001). PT improved rigidity (p < .0001). Conclusions: MT is effective on motor, affective, and behavioral functions. We propose active MT as a new method for inclusion in PD rehabilitation programs. Key words: music therapy, Parkinson’s disease, rehabilitation.
+
+ADL = activities of daily living; ANOVA = analysis of variance; HM = Happiness Measure; MS = motor subscale; MT = music therapy; PD = Parkinson’s disease; PDQL = Parkinson’s Disease Quality of Life Questionnaire; PT = physical therapy; UPDRS = Unified Parkinson’s Disease Rating Scale.
+
+INTRODUCTION
+Modern management of PD as well as efforts to obtain better symptom control are directed toward recovering the patient’s functional status, thus improving both clinical disability and quality of life (1– 4). To achieve global improvement in personal well-being, drugs, in accordance with standard guidelines, as well as interdisciplinary measures, such as physical exercise, occupational and speech therapy, and psychological, nutritional, and social counseling, have been used (5–7). We explored MT as a method for inclusion in PD rehabilitation programs. Even though MT is widely used in a variety of settings, including hospitals, rehabilitation centers, special schools, and hospices (8, 9), the literature contains few assessments of MT in medical care. Music has been used as a form of therapy for many different diseases and, unless hearing is totally affected, may indeed be experienced and appreciated by even the most severely physically or cognitively impaired subjects (10). MT has been widely used in the rehabilitation of handicapped children, providing one of the few ways in which these subjects can attain self-expression (11). In addition, MT is recommended in geriatric care to improve the social, psychological, intellectual, and cognitive performance of older people (12, 13). Depressed older adults, in particular, can experience the effects of passive MT (14, 15). MT reduces anxiety in patients undergoing cardiac procedures throughout the perioperative period and in those who have had a myocardial infarction (16, 17); moreover, music seems to relax patients undergoing surgery (18) or invasive diagnostic procedures (19). It has also been suggested that music may modify release of stress hormones and cardiac function (20) as well as the respiratory pattern (21). Finally, anecdotal evidence and clinical studies show that MT improves the cognitive functions and quality of life of patients with Alzheimer’s disease (22–24).
+
+There are two main branches of MT, active and passive. In brief, active MT is based on the improvisation of music by the therapist and patients, who play an active part by using instruments and voice. The use of instruments is structured to involve all the sensory organs; the rhythmic and melodic components of music may be used as specific stimuli to obtain certain motor and emotional responses, thus combining movement and stimulation of different sensory pathways, that is, auditory and tactile (multiple sensory stimulation), with a well-established emotional quality. Passive MT is conducted with the patient at rest. With the aim of producing a state of mental relaxation, the therapist plays calming music and invites the patient to visualize peaceful images.
+PD is a common degenerative disease dominated by a disorder of movement, consisting of bradykinesia (slowness of movement), hypokinesia (reduced movements), tremor, rigidity, and postural and gait abnormalities; mood changes are also a major component of PD (6).
+In view of the features of the disease, application of active MT would seem to be appropriate in PD, even though there are, so far, no objective reports on the efficacy of this kind of therapy in patients with PD. The first aim of this study was to verify the efficacy of MT on motor involvement in patients with PD. Moreover, given that PT is the main nonpharmacologic course of intervention in PD (25), we conducted a randomized, controlled, single-blinded, prospective study comparing PT with MT. In addition to measuring clinical changes, we evaluated the influence of these two types of therapy on both the emotional well-being and quality of life of PD patients.
+
+METHODS
+Subjects
+Thirty-two PD outpatients were invited to participate in the study, and informed consent was obtained. To meet our selection criteria, patients had to have idiopathic PD and had to be responsive to levodopa therapy or other dopaminergic treatments. Patients with secondary parkinsonism (ie, due to vascular disease, drugs, infections, toxicity, or other conditions) were excluded. Patients were stable responders or early fluctuators to levodopa, in Hoehn and Yahr stage 2 or 3, and not affected by cognitive deterioration, severe sensory (visual or auditory) deficits, or diseases affecting movement.
+Patients were allowed to continue taking their medication, but the dosage had to have been constant for 1 month before the trial and had to remain constant throughout the entire study period. Dopaminergic therapy consisted of levodopa (standard and slow-release formulations) alone or in association with dopamine agonists, such as pergolide or bromocriptine. Sixteen patients (12 men and 4 women; mean age, 62.4 years; mean duration of illness, 4.8 years) took part in weekly sessions of MT, and 16 patients (11 men and 5 women; mean age, 63.1 years; mean duration of illness, 5.2 years) had weekly sessions of traditional PT. Patients were randomly assigned to these groups by using a computer-generated number list. The groups were similar in age, time since diagnosis, drug schedules, duration and severity of illness, and motor impairment and disability, as measured by the MS and ADL subscales of the UPDRS, respectively (26). Furthermore, no significant differences in emotional functions, as assessed by the HM (27), or quality of life, as measured by the PDQL (4), emerged between the groups (Table 1).
+
+Study Design
+This prospective, randomized, controlled study lasted 3 months. Patient examinations were conducted 1 hour before the start of the PT or MT session by a neurologist (C.P.), blinded to the patient’s study group, after the first morning dose of therapy. Postsession examinations were conducted within 1 hour after conclusion of the session, before the second drug was taken. The UPDRS motor examination (score range, 0 –108) was administered to all patients at weeks 1, 3, 5, 7, 9, and 11 of the study and at the follow-up examination, which was conducted 2 months after completion of the study. The patient’s emotional state was assessed at the same time as motor function, using the short, self-administered HM, which was filled in by the patient. In brief, the HM consists of two self-report questionnaires (parts 1 and 2) that measure emotional well-being. Part 1 examines the intensity (or quality) of happiness (ie, how happy or unhappy one feels, with 10 = extremely happy and 0 = extremely unhappy) and part 2 measures the frequency (or quantity) of happiness (ie, the percentage of time one feels happy, unhappy, or neutral) during the past month. Another parameter considered was the combination score, calculated as follows: (Happiness Intensity × 10 − Happiness Frequency)/2, which combines the two scores in equal weights. The combination score was assessed at weeks 1, 5, 9, and 11 and at the follow-up visit. Validity studies have revealed a marked inverse relationship between the HM and indices of unhappiness usually used to assess mood disorders in patients with PD, such as the Beck Depression Inventory (27, 28). Each patient completed the PDQL at baseline, midway through the study, the end of the study, and 2 months after study completion (follow-up visit). Items on the PDQL explore the severity of illness in addition to systemic, social, and emotional variables (score range, 37–185). At the same time, changes in ADL were evaluated in each patient (score range, 0 –24).
+The 16 patients of the PT group, divided into two groups of 8, attended weekly sessions, each lasting about 1.5 hours. PT consisted of a series of passive muscle stretching exercises for rigidity and joint mobility, specific motor tasks for hypokinesia, weight shifting and balance training for posture, plus movement strategies to prevent falls and to initiate and maintain gait (29, 30). During the PT sessions, patients performed the exercises concurrently but individually, with minimal interaction with one another.
+The 16 MT patients were divided into two groups of 8, which is considered the ideal number of subjects to participate in a group session. Each group took part in 13 weekly sessions of active MT lasting about 2 hours each. Active MT involves improvisation by the therapist, who invites patients to play an active role using instruments and voice. Patients do not require any musical training. Each session was conducted by a music therapist who played an active part in the proceedings.
+Sessions were subdivided into standard sections as follows: entrance and interview, 10 minutes; listening to relaxing music and visualization of images, 10 minutes; choral singing and facial expression, breathing, and voice exercises, 15 to 20 minutes; rhythmic movements (eg, involving lower limbs, upper limbs, and gait), 30 minutes; active music involving collective invention and improvisation, 30 to 40 minutes; free body expression to melodic and rhythmic music, 20 to 30 minutes; and conversation, 10 minutes. Patients used all instruments at their disposal, adopting a free technique. The equipment consisted of a piano, organ, percussion instruments (eg, metallophones, xylophones, drums, wood blocks, and cymbals), and a high-fidelity system. In MT sessions, exercises were performed by couples, small groups, or even the group as a whole with a high level of interaction and communication within the group (eg, patients performed rhythmic or melodic improvisation using instruments and voice freely, or, in another exercise, some of the patients played the wood blocks with an alternating movement of the arms while the rest of the group marched to the rhythm). Our methods are extensively described elsewhere (31).
+
+Statistical Analysis
+We used Friedman’s to compare paired data emerging from the evaluation of all presession scores (overall evaluation), within MT and PT groups, of the following measures: UPDRS-MS, UPDRS-MS factors (ie, bradykinesia, rigidity, and postural and resting tremor) (32, 33), UPDRS-ADL, HM (combination and part 1 scores), and PDQL (total and partial scores). The bradykinesia factor was the summation of the following items: speech, facial expression, rising from a chair, posture, gait, postural stability, body bradykinesia, and limb bradykinesia (right and left hands and feet; score range, 0 – 68). The rigidity factor (range, 0 –20) was the sum of rigidity scores of all extremities and neck, and the rest tremor factor (range, 0 –20) was the sum of the tremor score for right and left sides and head. The postural/action tremor score (range, 0 –16) was the score for postural or action tremor for the upper extremities (32, 33).
+The Wilcoxon signed-rank test was used to compare every week presession and postsession scores on the following measures: UPDRS-MS, UPDRS-MS factors (bradykinesia, rigidity, and postural and resting tremor), and HM part 1. To compare presession and postsession differences between the PT and MT groups every week, we performed the Mann-Whitney U test on the following measures: UPDRS-MS, UPDRS-MS factors (bradykinesia, rigidity, and postural and resting tremor), and HM part 1. UPDRS-ADL, PDQL (total and partial), and HM combination scores of the PT and MT groups were compared at weeks 1, 7, and 11 and at the follow-up examination. All statistical tests were two-tailed at the .05 significance level. All statistical analyses were performed with SPSS/PC+, version 4.0.1 for DOS.
+
+RESULTS
+The difference between MT pretest and posttest values demonstrated a significant improvement in UPDRS-MS scores (Wilcoxon test, p < .0001; Table 2), especially with regard to bradykinesia (Wilcoxon test, p < .0001; Table 3). The difference between PT pretest and posttest UPDRS-MS and bradykinesia values was not significant (Tables 2 and 3). Analysis of changes in bradykinesia revealed that MT had a significant overall effect (Friedman’s ANOVA, p < .034; Table 3). This effect was lacking in the PT group (Table 3). The final evaluation, conducted 2 months after completion of the study, demonstrated a lack of motor benefit with MT. The over-time analysis of rigidity, like the pretest and posttest evaluations, consistently revealed the efficacy of PT training on this factor (Table 4).
+A comparison of pretest and posttest differences (∆) in the UPDRS-MS score (Table 2) and bradykinesia factor (Table 3) values between the MT and PT groups revealed a statistically significant effect of MT on these parameters (Mann-Whitney U test, p < .0001), whereas analysis of the rigidity factor revealed that PT rather than MT seems to be efficacious on this factor (Mann-Whitney U test, p < .001; Table 4).
+Analysis of the resting and postural tremor scores did not reveal any significant changes (data not shown).
+Variations in the ADL total score demonstrated that MT induced an overall effect on daily performance of activities (Friedman’s ANOVA, p < .0001; Table 5). Separate analysis of ADL items revealed significant changes in the following activities: cutting food, dressing, falling (Friedman’s ANOVA, p < .0001), and freezing (Friedman’s ANOVA, p < .05; data not shown). These results were also confirmed by a comparison of the influence of MT and PT on ADL score changes, which revealed that only MT had an effect on the ADL total score (Mann-Whitney U test, p < .0001; Table 5).
+Changes in emotional functions, as indicated by HM part 1 and combination scores (data not shown for the last), showed marked improvement in the MT group throughout the therapy period (overall effect), thus revealing a beneficial effect of MT on emotional well-being (Friedman’s ANOVA, p < .0001; Table 6). Presession and postsession changes in HM part 1 scores revealed the capacity of MT to modify emotional functions (Wilcoxon test, p < .0005; Table 6). Like motor changes, emotional changes were no longer evident 2 months after completion of MT. Emotional functioning was not modified in the PT group (Table 6). This result also emerges from the comparative analysis of the effect of MT and PT on HM part 1 and combination scores. These findings revealed a significant difference in favor of MT both over the study time and after each session (Mann-Whitney U test, p < .0001).
+Patients participating in MT sessions displayed a considerable improvement in quality of life, as indicated by the PDQL total score (Table 7), due particularly to variations in the emotional (p < .0001) and social (p < .0001) functioning scores, despite no change in parkinsonian and systemic functioning (data not shown). As seen with the changes in motor and emotional functions, the improvement in the quality of life was no longer evident 2 months after completion of MT. A comparison of differences in the PDQL total and partial scores (data not shown) between the MT and PT groups revealed a major efficacy of MT on quality of life (Mann-Whitney U test, p < .0001; Table 7).
+At the final interview, all MT patients (as opposed to only four PT patients) reported feelings of well-being and dynamism at home, saying that they were more active and keeping themselves busy. In particular, they said they appreciated the social contact and creative means of communication that MT offered them.
+
+DISCUSSION
+Suggestions that music improves rhythmic limb movements, gait, and freezing in patients with PD are not new in the clinical literature, even though they are rather scarce (34 –36). This study is the first to assess objectively the effect of a systematic program of active MT on standardized measures of PD severity using a prospective, single-blinded design. Moreover, this randomized, controlled clinical study compared the efficacy of MT and PT to highlight any eventual difference between the two methods in their effect on both physical and emotional functions. Our results demonstrate improvements in motor abilities and emotional status related to active MT. The improvement in motor performance was related mainly to changes in bradykinesia. Although the MT-related motor response seemed to decline after each session, a trend of improvement was observed in the MT group in the overall evaluation. Improvement in emotional functions was found both after each MT session and throughout the entire study period, but when measured 2 months after completion of MT, the values returned to baseline levels. Significant improvements in ADL and quality of life were also documented in patients undergoing MT. PT, meanwhile, led to a clear improvement in rigidity but did not induce any major changes in other variables.
+Physical rehabilitation has been found to be effective in patients with PD, although the evidence is questionable in some reports (29, 33, 37–39). Generally, PT serves as reinforcement of the motor program, but this kind of intervention is usually lacking in the motivational and emotional spheres, which could explain why traditional PT has little influence on mood state and why it is not easily incorporated into the patient’s lifestyle (33). It is well known, on the other hand, that psychosocial variables, such as emotional state or psychosocial stress, strongly influence abnormalities in gait and posture and other motor performances (40, 41). In accordance with such observations, occupational and behavioral therapies based on psychological and motivational aspects can induce improvements in movement initiation and quality (42).
+The beneficial effect on emotional variables measured in the MT group may be explained by the different emotional impact that MT has on patients, which is related to its high level of sensory stimulation and high degree of personal interaction. In line with this view, our study suggests a connection between emotions and the facilitation of movement.
+In accordance with the clinical literature, it may be argued that the MT-induced improvement in bradykinesia could be due to the effect of external rhythmic cues, which, acting as a timekeeper, may stabilize the internal rhythm formation process in patients with PD (43– 45). Indeed, it has been demonstrated that the initiation and execution times in sequential button-pressing tasks are positively influenced by acoustic cues (46), as are gait velocity, cadence, and stride length (47, 48). Along with the rhythmic aspect of music, another factor possibly involved in motor improvement is the affective arousal effect of music, which could influence both motivational and emotional processing. We hypothesize that the variable improvement in bradykinesia may be due to activation of the emotional neural-based network that involves the dopaminergic mesolimbic projections to the ventral striatum-intraccumbens nuclei, the circuit that is assumed to regulate motivational-incentive reinforcements of general behavior (49, 50). Following this view, the motor facilitation in response to MT could be based on emotional reactions momentarily activating the cortical-basal ganglia motor loop, the circuit primarily affected in PD. The behavioral evidence of a functional interface between the limbic and motor systems (51, 52) and the anatomical-functional sensorimotor integration of basal ganglia and cortical frontal regions (52–59) further support this suggestion.
+Current knowledge of the cerebral structures involved in the perception of music is derived from clinical-pathological studies and from pioneering positron emission tomographic research (60 – 62). Listening to music seems to involve distinct neural processes that correspond to the basic components of music, such as rhythm, pitch, and timbre, or even to lexicosemantic access to melodic representations (62), functions that involve one or both hemispheres. Music has been shown to relax and reduce anxiety, modifying release of stress hormones, cardiac function (20), and respiratory pattern (21). These changes induced by music could be at the origin of positive findings in emotional and social items: A clear improvement in the PDQL scale score demonstrates the efficacy of MT on PD patients’ quality of life. This improvement emphasizes an important effect of active MT in PD: It promotes socialization, involvement with the environment, expression of feelings, awareness, and responsiveness. MT, in fact, increases motivation in patients whose personality is characterized by the absence of “novelty-seeking” aspects of behavior (63) and by “anhedonia,” a mood state characterized by the “loss of internally generated anticipation, motivation, and drive” (49, 50).
+
+This research was supported, in part, by Grant ICS57.2/RC94.10 from the Ministry of Public Health. The authors thank K. Wrenn for assistance with translation and A. Citterio for assistance with statistical analysis.
+
+REFERENCES
+1. Wade DT. Epidemiology of disabling neurological disease: how and why does disability occur? J Neurol Neurosurg Psychiatry 1996;61:242–9.
+2. Shindler JS, Brown RG, Welburn P, Parkes JD. Measuring the quality of life of patients with Parkinson’s disease. In: Walker SR, Rosser RM, editors. Quality of life, assessment and application. Proceedings of the Centre for Medicines Research Workshop held at the CIBA Foundation, London, March 5th, 1987. Lancaster, UK: MTP Press; 1988.
+3. Calne S, Schulzer M, Mak E, Guyette C, Rohs G, Hatchard S, Murphy D, Hodder J, Gagnon C, Weatherby S, Beaudet L, Duff J, Pegler S. Validating a quality of life rating scale for idiopathic parkinsonism: Parkinson’s Impact Scale (PIMS). Parkinsonism Relat Disord 1996;2:55– 61.
+4. de Boer AGEM, Wijker W, Speelman JD, de Haes JCJM. Quality of life in patients with Parkinson’s disease: development of a questionnaire. J Neurol Neurosurg Psychiatry 1996;61:70 – 4.
+5. Quality Standards Subcommittee, American Academy of Neurology. Practice parameters: initial therapy of Parkinson’s disease. Neurology 1993;43:1296 –7.
+6. Marsden CD. Parkinson’s disease. J Neurol Neurosurg Psychiatry 1994;57:672– 81.
+7. Koller WC, Silver DE, Lieberman A. An algorithm for the management of Parkinson’s disease. Neurology 1994;44(12 Suppl 10):S1–52.
+8. Lindsay S. Music in hospitals. Br J Hosp Med 1993;11:660 –2.
+9. Marwick C. Leaving concert hall for clinic, therapists now test music’s ‘charms.’ JAMA 1996;275:267– 8.
+10. Aldridge D, Gustorff D, Hannich H. Where am I? Music therapy applied to coma patients [editorial]. J R Soc Med 1990;83:345– 6.
+11. Kirk R, Abbotson M, Abbotson R, Hunt A, Cleaton A. Computer music in the service of music therapy: the MIDIGRID and MIDICREATOR systems. Med Eng Phys 1994;16:253– 8.
+12. Gibbons AC. Music development in the elderly: what are the chances? Designs Clin Enhancement 1986;81:24 –5.
+13. Tyson J. Evaluating elderly diseases. Nursing 1988;18:34 – 41.
+14. Hanser SB, Thompson LW. Effects of a music therapy strategy on depressed older adults. J Gerontol 1994;49:P265–9.
+15. Smith DS. Therapeutic treatment effectiveness as documented in the gerontology literature: implications for music therapy. Music Ther Perspect 1990;8:36 – 40.
+16. Guzzetta CE. Effects of relaxation and music therapy on patients in a coronary care unit with presumptive acute myocardial infarction. Heart Lung 1989;18:609 –16.
+17. Barnason S, Zimmerman L, Nieveen J. The effects of music interventions on anxiety in the patient after coronary artery bypass grafting. Heart Lung 1995;24:124 –32.
+18. Moss VA. The effect of music on anxiety in the surgical patient. Perioperative Nurs Q 1987;3:9 –16.
+19. Palakanis KC, DeNobile JW, Sweeney WB, Blankenship CL. Effect of music on state anxiety in patients undergoing flexible sigmoidoscopy. Dis Colon Rectum 1994;37:478 – 81.
+20. Mockel M, Rocker L, Stork T, Vollert J, Danne O, Eichstadt H, Muller R, Hochrein H. Immediate physiological responses of healthy volunteers to different types of music: cardiovascular, hormonal and mental changes. Eur J Appl Physiol 1994;68:451–9.
+21. Haas F, Distenfeld S, Kenneth A. Effects of perceived musical rhythm on respiratory pattern. Eur J Appl Physiol 1986;61:1185–91.
+22. Aldridge D. Music and Alzheimer’s disease—assessment and therapy: discussion paper. J R Soc Med 1993;86:93–5.
+23. Aldridge D. Alzheimer’s disease: rhythm, timing and music therapy. Biomed Pharmacother 1994;48:275– 81.
+24. Lord TR, Garner JE. Effects of music on Alzheimer patients. Percept Mot Skills 1993;76:451–5.
+25. Bohannon RW. Physical rehabilitation in neurologic diseases. Curr Opin Neurol 1993;6:765–72.
+26. Fahn S, Elton RL, Goldstein M, members of the UPDRS Development Committee. Unified Parkinson’s Disease Rating Scale. In: Fahn S, Marsden CD, Calne DB, Goldstein S, editors. Recent developments in Parkinson’s disease. Florham Park, NJ: Macmillan Healthcare Information; 1987. p. 152– 63.
+27. Fordyce MW. A review of research on the happiness measures: a sixty second index of happiness and mental health. Soc Indicators Res 1988;20:355– 81.
+28. Beck AT, Beamesderfer A. Assessment of depression: the depression inventory. Mod Probl Pharmacopsychiatry 1974;7:151– 69.
+29. Formisano R, Pratesi L, Modarelli F, Bonifanti V, Meco G. Rehabilitation and Parkinson’s disease. Scand J Rehabil Med 1992;24:157– 60.
+30. Schenkman M, Donovan J, Tsubota J, Kluss M, Stebbins P, Butler RB. Management of individuals with Parkinson’s disease: rationale and case studies. Phys Ther 1989;69:944 –55.
+31. Pacchetti C, Aglieri R, Mancini F, Martignoni E, Nappi G. Active music therapy in Parkinson’s disease: methods. Funct Neurol 1998;13:57– 67.
+32. Stebbins GT, Goetz CG. Factor structure of the Unified Parkinson’s Disease Rating Scale: Motor Examination section. Mov Dis 1998;13:633– 6.
+33. Comella JC, Stebbins GT, Brown-Tomas N, Goetz CG. Physical therapy and Parkinson’s disease: a controlled clinical trial. Neurology 1994;44:376 – 8.
+34. Swallow M. Can music help people with Parkinson’s disease? In: Koller WC, Paulson C, editors. Therapy of Parkinson’s disease. New York: Marcel Dekker; 1990. p. 109 –12.
+35. Stern G, Lander CM, Lees AJ. Akinetic freezing and trick movements in Parkinson’s disease. J Neural Transm Suppl 1980;16:137– 41.
+36. Sacks O. Awakenings. London: Pan Books; 1982.
+37. Franklyn S, Kohout IJ, Stern GM, Dunning M. Physiotherapy in Parkinson’s disease. In: Rose FC, Capildeo R, editors. Research progress in Parkinson’s disease. Kent, UK: Pitman Medical; 1981. p. 397– 400.
+38. Gibberd FB, Page GR, Spencer KM. A controlled trial in physiotherapy for Parkinson’s disease. In: Rose FC, Capildeo R, editors. Research progress in Parkinson’s disease. Kent, UK: Pitman Medical; 1981. p. 401–3.
+39. Pederson SW, Oberg B, Insulander A, Vretman A. Group training in Parkinsonism: quantitative measurements of treatment. Scand J Rehabil Med 1990;22:207–11.
+40. Jankovic J. The assessment and therapy in parkinsonism. In: Marsden CD, Fahn S editors. Clinical aspects of Parkinson’s disease. Carnforth, UK: Parthenon; 1990.
+41. Ellgring H, Seiler S, Nagel U, Perleth B, Gassr T, Oertel WH. Psychosocial problems of Parkinson patients: approaches to assessment and treatment. Adv Neurol 1990;53:349 –53.
+42. Muller V, Mohr B, Rosin R, Pulvermuller F, Muller F, Birbaumer N. Short-term effects of behavioral treatment on movement initiation and postural control in Parkinson’s disease: a controlled clinical study. Mov Disord 1997;12:306 –14.
+43. Nakamura R, Nagasaki H, Narabayashi H. Disturbances of rhythm formation in patients with Parkinson’s disease. Percept Mot Skills 1978;46:63–75.
+44. Benecke R, Rothwell JC, Dick JPR, Day BL, Marsden CD. Disturbance of sequential movements in patients with Parkinson’s disease. Brain 1987;110:361–79.
+45. Agostino R, Berardelli A, Formica A, Accornero N, Manfredi M. Sequential arm movements in patients with Parkinson’s disease, Huntington’s disease and dystonia. Brain 1992;115:1481–95.
+46. Georgiou N, Iansek R, Bradshaw JL, Philips JG, Mattingly JB, Bradshaw JA. An evaluation of the role of internal cues in the pathogenesis of parkinsonian hypokinesia. Brain 1993;116:1578 – 87.
+47. Thaut MH, McIntosh GC, Rice RR, Miller RA, Rathbun J, Brault JM. Rhythmic auditory stimulation in gait training for Parkinson’s disease patients. Mov Disord 1996;2:193–200.
+48. McIntosh GC, Brown SH, Rice RR, Thaut MH. Rhythmic auditory-motor facilitation of gait patterns in patients with Parkinson’s disease. J Neurol Neurosurg Psychiatry 1997;62:22– 6.
+49. Fibiger HC, Phillips AG. Reward, motivation, cognition: psychobiology of mesentelencephalic dopamine systems. In: Mountcastle VB, Bloom FE, Geiger SR, editors. Handbook of physiology. Vol 4: Intrinsic regulatory system of the brain. Section 1: The nervous system. Bethesda (MD): American Physiological Society; 1986. p. 647–76.
+50. Wise CY. Neuroleptics and operant behavior: the anhedonia hypothesis. Behav Brain Res 1982;5:39 – 87.
+51. Lynd-Balta E, Haber SN. Primate striatonigral projections: a comparison of the sensorimotor-related striatum and the ventral striatum. J Comp Neurol 1994;345:562–78.
+52. Cador M, Robbins TW, Everitt BJ. Involvement of the amygdala in stimulus-reward associations: interaction with the ventral striatum. Neuroscience 1989;1:77– 86.
+53. LeDoux JE. Brain mechanisms of emotion and emotional learning. Curr Opin Neurobiol 1992;2:191–7.
+54. LeDoux JE. Emotional memory systems in the brain. Behav Brain Res 1993;58:69 –79.
+55. Fuster JM. Frontal lobes. Curr Opin Neurobiol 1993;3:160 –5.
+56. Dermon CR, Barbas H. Contralateral thalamic projections predominantly reach transitional cortices in the rhesus monkey. J Comp Neurol 1994;344:508 –31.
+57. Barbas H, Henion TH, Dermon CR. Diverse thalamic projections to the prefrontal cortex in the rhesus monkey. J Comp Neurol 1991;313:65–94.
+58. Heimer L, Alheid GF. Piecing together the puzzle of basal forebrain anatomy. In: Napier TC, Kalivas PW, Hanin I, editors. The basal forebrain: anatomy to function. New York: Plenum Press; 1991. p. 1– 42.
+59. Barbas H, Pandya DN. Architecture and frontal cortical connections of the premotor cortex (area 6) in the rhesus monkey. J Comp Neurol 1987;256:211– 8.
+60. Mazziotta JC, Phelps ME, Carson RE, Kuhl DE. Tomographic mapping of human cerebral metabolism: auditory stimulation. Neurology 1982;32:921–37.
+61. Zatorre RJ, Evans AC, Meyer E. Neural mechanisms underlying melodic perception and memory for pitch. J Neurosci 1994;14:1908 –19.
+62. Platel H, Price C, Baron JC, Wise R, Lambert J, Frackowiak RS, Lechevalier B, Eustache F. The structural components of music perception: a functional anatomical study. Brain 1997;120(Pt 2):229 – 43.
+63. Menza MA, Golbe LI, Cody RA, Formann NE. Dopamine-related personality traits in Parkinson’s disease. Neurology 1993;43:505– 8.                                                  REFERENCES
+pressing tasks are positively influenced by acoustic
+cues (46), as are gait velocity, cadence, and stride       1. Wade DT. Epidemiology of disabling neurological disease: how
+                                                              and why does disability occur? J Neurol Neurosurg Psychiatry
+length (47, 48). Along with the rhythmic aspect of
+                                                              1996;61:242–9.
+music, another factor possibly involved in motor im-       2. Shindler JS, Brown RG, Welburn P, Parkes JD. Measuring the
+provement is the affective arousal effect of music,           quality of life of patients with Parkinson’s disease. In: Walker
+which could influence both motivational and emo-              SR, Rosser RM, editors. Quality of life, assessment and applica-
+tional processing. We hypothesize that the variable           tion. Proceedings of the Centre for Medicines Research Work-
+                                                              shop held at the CIBA Foundation, London, March 5th, 1987.
+improvement in bradykinesia may be due to activation
+                                                              Lancaster, UK: MTP Press; 1988.
+of the emotional neural-based network that involves        3. Calne S, Schulzer M, Mak E, Guyette C, Rohs G, Hatchard S,
+the dopaminergic mesolimbic projections to the ven-           Murphy D, Hodder J, Gagnon C, Weatherby S, Beaudet L, Duff J,
+tral striatum-intraccumbens nuclei, the circuit that is       Pegler S. Validating a quality of life rating scale for idiopathic
+
+
+
+Psychosomatic Medicine 62:386 –393 (2000)                                                                                   391
+                                                                                                                   C. PACCHETTI et al.
+
+      parkinsonism: Parkinson’s Impact Scale (PIMS). Parkinsonism         28. Beck AT, Beamesderfer A. Assessment of depression: the de-
+      Relat Disord 1996;2:55– 61.                                             pression inventory. Mod Probl Pharmacopsychiatry 1974;7:
+ 4.   de Boer AGEM, Wijker W, Speelman JD, de Haes JCJM. Quality              151– 69.
+      of life in patients with Parkinson’s disease: development of a      29. Formisano R, Pratesi L, Modarelli F, Bonifanti V, Meco G. Re-
+      questionnaire. J Neurol Neurosurg Psychiatry 1996;61:70 – 4.            habilitation and Parkinson’s disease. Scand J Rehabil Med 1992;
+ 5.   Quality Standards Subcommittee, American Academy of Neu-                24:157– 60.
+      rology. Practice parameters: initial therapy of Parkinson’s dis-    30. Schenkman M, Donovan J, Tsubota J, Kluss M, Stebbins P,
+      ease. Neurology 1993;43:1296 –7.                                        Butler RB. Management of individuals with Parkinson’s disease:
+ 6.   Marsden CD. Parkinson’s disease. J Neurol Neurosurg Psychiatry          rationale and case studies. Phys Ther 1989;69:944 –55.
+      1994;57:672– 81.                                                    31. Pacchetti C, Aglieri R, Mancini F, Martignoni E, Nappi G. Active
+ 7.   Koller WC, Silver DE, Lieberman A. An algorithm for the man-            music therapy in Parkinson’s disease: methods. Funct Neurol
+      agement of Parkinson’s disease. Neurology 1994;44(12 Suppl              1998;13:57– 67.
+      10):S1–52.                                                          32. Stebbins GT, Goetz CG. Factor structure of the Unified Parkin-
+ 8.   Lindsay S. Music in hospitals. Br J Hosp Med 1993;11:660 –2.            son’s Disease Rating Scale: Motor Examination section. Mov Dis
+ 9.   Marwick C. Leaving concert hall for clinic, therapists now test         1998;13:633– 6.
+      music’s ‘charms.’ JAMA 1996;275:267– 8.                             33. Comella JC, Stebbins GT, Brown-Tomas N, Goetz CG. Physical
+10.   Aldridge D, Gustorff D, Hannich H. Where am I? Music therapy            therapy and Parkinson’s disease: a controlled clinical trial. Neu-
+      applied to coma patients [editorial]. J R Soc Med 1990;83:345– 6.       rology 1994;44:376 – 8.
+11.   Kirk R, Abbotson M, Abbotson R, Hunt A, Cleaton A. Computer         34. Swallow M. Can music help people with Parkinson’s disease?
+      music in the service of music therapy: the MIDIGRID and MIDI-           In: Koller WC, Paulson C, editors. Therapy of Parkinson’s dis-
+      CREATOR systems. Med Eng Phys 1994;16:253– 8.                           ease. New York: Marcel Dekker; 1990. p. 109 –12.
+12.   Gibbons AC. Music development in the elderly: what are the          35. Stern G, Lander CM, Lees AJ. Akinetic freezing and trick move-
+      chances? Designs Clin Enhancement 1986;81:24 –5.                        ments in Parkinson’s disease. J Neural Transm Suppl 1980;
+13.   Tyson J. Evaluating elderly diseases. Nursing 1988;18:34 – 41.          16:137– 41.
+14.   Hanser SB, Thompson LW. Effects of a music therapy strategy         36. Sacks O. Awakenings. London: Pan Books; 1982.
+      on depressed older adults. J Gerontol 1994;49:P265–9.               37. Franklyn S, Kohout IJ, Stern GM, Dunning M. Physiotherapy in
+15.   Smith DS. Therapeutic treatment effectiveness as documented             Parkinson’s disease. In: Rose FC, Capildeo R, editors. Research
+      in the gerontology literature: implications for music therapy.          progress in Parkinson’s disease. Kent, UK: Pitman Medical;
+      Music Ther Perspect 1990;8:36 – 40.                                     1981. p. 397– 400.
+16.   Guzzetta CE. Effects of relaxation and music therapy on patients    38. Gibberd FB, Page GR, Spencer KM. A controlled trial in phys-
+      in a coronary care unit with presumptive acute myocardial               iotherapy for Parkinson’s disease. In: Rose FC, Capildeo R, edi-
+      infarction. Heart Lung 1989;18:609 –16.                                 tors. Research progress in Parkinson’s disease. Kent, UK: Pitman
+17.   Barnason S, Zimmerman L, Nieveen J. The effects of music                Medical; 1981. p. 401–3.
+      interventions on anxiety in the patient after coronary artery       39. Pederson SW, Oberg B, Insulander A, Vretman A. Group train-
+      bypass grafting. Heart Lung 1995;24:124 –32.                            ing in Parkinsonism: quantitative measurements of treatment.
+18.   Moss VA. The effect of music on anxiety in the surgical patient.        Scand J Rehabil Med 1990;22:207–11.
+      Perioperative Nurs Q 1987;3:9 –16.                                  40. Jankovic J. The assessment and therapy in parkinsonism. In:
+19.   Palakanis KC, DeNobile JW, Sweeney WB, Blankenship CL.                  Marsden CD, Fahn S editors. Clinical aspects of Parkinson’s
+      Effect of music on state anxiety in patients undergoing flexible        disease. Carnforth, UK: Parthenon; 1990.
+      sigmoidoscopy. Dis Colon Rectum 1994;37:478 – 81.                   41. Ellgring H, Seiler S, Nagel U, Perleth B, Gassr T, Oertel WH.
+20.   Mockel M, Rocker L, Stork T, Vollert J, Danne O, Eichstadt H,           Psychosocial problems of Parkinson patients: approaches to as-
+      Muller R, Hochrein H. Immediate physiological responses of              sessment and treatment. Adv Neurol 1990;53:349 –53.
+      healthy volunteers to different types of music: cardiovascular,     42. Muller V, Mohr B, Rosin R, Pulvermuller F, Muller F, Birbaumer
+      hormonal and mental changes. Eur J Appl Physiol 1994;68:                N. Short-term effects of behavioral treatment on movement ini-
+      451–9.                                                                  tiation and postural control in Parkinson’s disease: a controlled
+21.   Haas F, Distenfeld S, Kenneth A. Effects of perceived musical           clinical study. Mov Disord 1997;12:306 –14.
+      rhythm on respiratory pattern. Eur J Appl Physiol 1986;61:          43. Nakamura R, Nagasaki H, Narabayashi H. Disturbances of
+      1185–91.                                                                rhythm formation in patients with Parkinson’s disease. Percept
+22.   Aldridge D. Music and Alzheimer’s disease—assessment and                Mot Skills 1978;46:63–75.
+      therapy: discussion paper. J R Soc Med 1993;86:93–5.                44. Benecke R, Rothwell JC, Dick JPR, Day BL, Marsden CD. Distur-
+23.   Aldridge D. Alzheimer’s disease: rhythm, timing and music               bance of sequential movements in patients with Parkinson’s
+      therapy. Biomed Pharmacother 1994;48:275– 81.                           disease. Brain 1987;110:361–79.
+24.   Lord TR, Garner JE. Effects of music on Alzheimer patients.         45. Agostino R, Berardelli A, Formica A, Accornero N, Manfredi
+      Percept Mot Skills 1993;76:451–5.                                       M. Sequential arm movements in patients with Parkinson’s
+25.   Bohannon RW. Physical rehabilitation in neurologic diseases.            disease, Huntington’s disease and dystonia. Brain 1992;115:
+      Curr Opin Neurol 1993;6:765–72.                                         1481–95.
+26.   Fahn S, Elton RL, Goldstein M, members of the UPDRS Devel-          46. Georgiou N, Iansek R, Bradshaw JL, Philips JG, Mattingly JB,
+      opment Committee. Unified Parkinson’s Disease Rating Scale.             Bradshaw JA. An evaluation of the role of internal cues in the
+      In: Fahn S, Marsden CD, Calne DB, Goldstein S, editors. Recent          pathogenesis of parkinsonian hypokinesia. Brain 1993;116:
+      developments in Parkinson’s disease. Florham Park, NJ: Mac-             1578 – 87.
+      millan Healthcare Information; 1987. p. 152– 63.                    47. Thaut MH, McIntosh GC, Rice RR, Miller RA, Rathbun J, Brault
+27.   Fordyce MW. A review of research on the happiness measures:             JM. Rhythmic auditory stimulation in gait training for Parkin-
+      a sixty second index of happiness and mental health. Soc Indi-          son’s disease patients. Mov Disord 1996;2:193–200.
+      cators Res 1988;20:355– 81.                                         48. McIntosh GC, Brown SH, Rice RR, Thaut MH. Rhythmic
+
+
+
+392                                                                                                Psychosomatic Medicine 62:386 –393 (2000)
+MUSIC THERAPY IN PARKINSONⴕS DISEASE
+
+      auditory-motor facilitation of gait patterns in patients with Parkin-   57. Barbas H, Henion TH, Dermon CR. Diverse thalamic projections
+      son’s disease. J Neurol Neurosurg Psychiatry 1997;62:22– 6.                 to the prefrontal cortex in the rhesus monkey. J Comp Neurol
+49.   Fibiger HC, Phillips AG. Reward, motivation, cognition: psycho-             1991;313:65–94.
+      biology of mesentelencephalic dopamine systems. In: Mount-              58. Heimer L, Alheid GF. Piecing together the puzzle of basal fore-
+      castle VB, Bloom FE, Geiger SR, editors. Handbook of physiol-               brain anatomy. In: Napier TC, Kalivas PW, Hanin I, editors. The
+      ogy. Vol 4: Intrinsic regulatory system of the brain. Section 1:            basal forebrain: anatomy to function. New York: Plenum Press;
+      The nervous system. Bethesda (MD): American Physiological                   1991. p. 1– 42.
+      Society; 1986. p. 647–76.                                               59. Barbas H, Pandya DN. Architecture and frontal cortical connec-
+50.   Wise CY. Neuroleptics and operant behavior: the anhedonia                   tions of the premotor cortex (area 6) in the rhesus monkey.
+      hypothesis. Behav Brain Res 1982;5:39 – 87.
+                                                                                  J Comp Neurol 1987;256:211– 8.
+51.   Lynd-Balta E, Haber SN. Primate striatonigral projections: a
+                                                                              60. Mazziotta JC, Phelps ME, Carson RE, Kuhl DE. Tomographic
+      comparison of the sensorimotor-related striatum and the ventral
+                                                                                  mapping of human cerebral metabolism: auditory stimulation.
+      striatum. J Comp Neurol 1994;345:562–78.
+                                                                                  Neurology 1982;32:921–37.
+52.   Cador M, Robbins TW, Everitt BJ. Involvement of the amygdala
+                                                                              61. Zatorre RJ, Evans AC, Meyer E. Neural mechanisms underlying
+      in stimulus-reward associations: interaction with the ventral
+      striatum. Neuroscience 1989;1:77– 86.                                       melodic perception and memory for pitch. J Neurosci 1994;14:
+53.   LeDoux JE. Brain mechanisms of emotion and emotional learn-                 1908 –19.
+      ing. Curr Opin Neurobiol 1992;2:191–7.                                  62. Platel H, Price C, Baron JC, Wise R, Lambert J, Frackowiak RS,
+54.   LeDoux JE. Emotional memory systems in the brain. Behav                     Lechevalier B, Eustache F. The structural components of music
+      Brain Res 1993;58:69 –79.                                                   perception: a functional anatomical study. Brain 1997;120(Pt
+55.   Fuster JM. Frontal lobes. Curr Opin Neurobiol 1993;3:160 –5.                2):229 – 43.
+56.   Dermon CR, Barbas H. Contralateral thalamic projections pre-            63. Menza MA, Golbe LI, Cody RA, Formann NE. Dopamine-related
+      dominantly reach transitional cortices in the rhesus monkey.                personality traits in Parkinson’s disease. Neurology 1993;43:
+      J Comp Neurol 1994;344:508 –31.                                             505– 8.
+
+
+
+
+Psychosomatic Medicine 62:386 –393 (2000)                                                                                                    393
+
